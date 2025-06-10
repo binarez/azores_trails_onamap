@@ -1,0 +1,3854 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2022-06-20T11:25:34Z</time>
+    <bounds maxlat="38.736173249781132" maxlon="-27.215181961655617" minlat="38.725254898890853" minlon="-27.236635191366076" />
+  </metadata>
+
+  <wpt lat="38.728042468428612" lon="-27.218320230022073">
+    <ele>0</ele>
+    <time>2022-06-20T11:24:23Z</time>
+    <name>1246_PRC10TER</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;1246_PRC10TER&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CODIGO&lt;/td&gt;
+
+&lt;td&gt;PRC10TER&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;NOME&lt;/td&gt;
+
+&lt;td&gt;ALGAR DO CARVAO - FURNA DO ENXOFRE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;ETAPA&lt;/td&gt;
+
+&lt;td&gt;N/A&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;DESCRICAO&lt;/td&gt;
+
+&lt;td&gt;ALGAR DO CARVAO - FURNA DO ENXOFRE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CATEGORIA&lt;/td&gt;
+
+&lt;td&gt;PR&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;FORMA&lt;/td&gt;
+
+&lt;td&gt;PRC&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;SITUACAO&lt;/td&gt;
+
+&lt;td&gt;ABERTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;DATA_IMPLEMENTACAO&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;ILHA&lt;/td&gt;
+
+&lt;td&gt;TERCEIRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;CONCELHO&lt;/td&gt;
+
+&lt;td&gt;ANGRA DO HEROISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;FREGUESIA&lt;/td&gt;
+
+&lt;td&gt;PORTO JUDEU&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;FONTE&lt;/td&gt;
+
+&lt;td&gt;DIRECAO REGIONAL DE TURISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;td&gt;VOCE ESTA AQUI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;UTILIZADOR&lt;/td&gt;
+
+&lt;td&gt;TELMO.C.PACHECO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;ID_POINT&lt;/td&gt;
+
+&lt;td&gt;BUL_PRC10TER_1246&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;COR&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;1246_PRC10TER&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CODIGO&lt;/td&gt;
+
+&lt;td&gt;PRC10TER&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;NOME&lt;/td&gt;
+
+&lt;td&gt;ALGAR DO CARVAO - FURNA DO ENXOFRE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;ETAPA&lt;/td&gt;
+
+&lt;td&gt;N/A&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;DESCRICAO&lt;/td&gt;
+
+&lt;td&gt;ALGAR DO CARVAO - FURNA DO ENXOFRE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CATEGORIA&lt;/td&gt;
+
+&lt;td&gt;PR&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;FORMA&lt;/td&gt;
+
+&lt;td&gt;PRC&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;SITUACAO&lt;/td&gt;
+
+&lt;td&gt;ABERTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;DATA_IMPLEMENTACAO&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;ILHA&lt;/td&gt;
+
+&lt;td&gt;TERCEIRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;CONCELHO&lt;/td&gt;
+
+&lt;td&gt;ANGRA DO HEROISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;FREGUESIA&lt;/td&gt;
+
+&lt;td&gt;PORTO JUDEU&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;FONTE&lt;/td&gt;
+
+&lt;td&gt;DIRECAO REGIONAL DE TURISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;td&gt;VOCE ESTA AQUI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;UTILIZADOR&lt;/td&gt;
+
+&lt;td&gt;TELMO.C.PACHECO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;ID_POINT&lt;/td&gt;
+
+&lt;td&gt;BUL_PRC10TER_1246&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;COR&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-06-20T11:24:23Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.727795202285051" lon="-27.215181961655617">
+    <ele>0</ele>
+    <time>2022-06-20T11:24:23Z</time>
+    <name>ALGAR DO CARVAO</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;ALGAR DO CARVAO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ID&lt;/td&gt;
+
+&lt;td&gt;1236&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;CODIGO&lt;/td&gt;
+
+&lt;td&gt;N/A&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRICAO&lt;/td&gt;
+
+&lt;td&gt;ALGAR DO CARVAO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ILHA&lt;/td&gt;
+
+&lt;td&gt;TERCEIRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CONCELHO&lt;/td&gt;
+
+&lt;td&gt;ANGRA DO HEROISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;FREGUESIA&lt;/td&gt;
+
+&lt;td&gt;PORTO JUDEU&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;FONTE&lt;/td&gt;
+
+&lt;td&gt;DIRECAO REGIONAL DE TURISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;td&gt;GRUTA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;ALGAR DO CARVAO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ID&lt;/td&gt;
+
+&lt;td&gt;1236&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;CODIGO&lt;/td&gt;
+
+&lt;td&gt;N/A&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRICAO&lt;/td&gt;
+
+&lt;td&gt;ALGAR DO CARVAO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ILHA&lt;/td&gt;
+
+&lt;td&gt;TERCEIRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CONCELHO&lt;/td&gt;
+
+&lt;td&gt;ANGRA DO HEROISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;FREGUESIA&lt;/td&gt;
+
+&lt;td&gt;PORTO JUDEU&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;FONTE&lt;/td&gt;
+
+&lt;td&gt;DIRECAO REGIONAL DE TURISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;td&gt;GRUTA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-06-20T11:24:23Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.729841643944383" lon="-27.232208121567965">
+    <ele>0</ele>
+    <time>2022-06-20T11:24:23Z</time>
+    <name>FURNA DO ENXOFRE</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;FURNA DO ENXOFRE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ID&lt;/td&gt;
+
+&lt;td&gt;140&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;CODIGO&lt;/td&gt;
+
+&lt;td&gt;N/A&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRICAO&lt;/td&gt;
+
+&lt;td&gt;FURNA DO ENXOFRE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ILHA&lt;/td&gt;
+
+&lt;td&gt;TERCEIRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CONCELHO&lt;/td&gt;
+
+&lt;td&gt;ANGRA DO HEROISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;FREGUESIA&lt;/td&gt;
+
+&lt;td&gt;POSTO SANTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;FONTE&lt;/td&gt;
+
+&lt;td&gt;DIRECAO REGIONAL DE TURISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;td&gt;PONTO DE INTERESSE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;FURNA DO ENXOFRE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ID&lt;/td&gt;
+
+&lt;td&gt;140&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;CODIGO&lt;/td&gt;
+
+&lt;td&gt;N/A&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRICAO&lt;/td&gt;
+
+&lt;td&gt;FURNA DO ENXOFRE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ILHA&lt;/td&gt;
+
+&lt;td&gt;TERCEIRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CONCELHO&lt;/td&gt;
+
+&lt;td&gt;ANGRA DO HEROISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;FREGUESIA&lt;/td&gt;
+
+&lt;td&gt;POSTO SANTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;FONTE&lt;/td&gt;
+
+&lt;td&gt;DIRECAO REGIONAL DE TURISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;td&gt;PONTO DE INTERESSE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-06-20T11:24:23Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.728853836655617" lon="-27.227498078718781">
+    <ele>0</ele>
+    <time>2022-06-20T11:24:23Z</time>
+    <name>MIRADOURO3</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;MIRADOURO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ID&lt;/td&gt;
+
+&lt;td&gt;1237&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;CODIGO&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRICAO&lt;/td&gt;
+
+&lt;td&gt;MIRADOURO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ILHA&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CONCELHO&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;FREGUESIA&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;FONTE&lt;/td&gt;
+
+&lt;td&gt;DIRECAO REGIONAL DE TURISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;td&gt;MIRADOURO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;MIRADOURO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ID&lt;/td&gt;
+
+&lt;td&gt;1237&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;CODIGO&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRICAO&lt;/td&gt;
+
+&lt;td&gt;MIRADOURO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ILHA&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CONCELHO&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;FREGUESIA&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;FONTE&lt;/td&gt;
+
+&lt;td&gt;DIRECAO REGIONAL DE TURISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;td&gt;MIRADOURO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-06-20T11:24:23Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.727777348831296" lon="-27.21585787832737">
+    <ele>0</ele>
+    <time>2022-06-20T11:24:23Z</time>
+    <name>Monumento Natural Algar do Carvao</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Monumento Natural Algar do Carvao&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ID&lt;/td&gt;
+
+&lt;td&gt;139&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;CODIGO&lt;/td&gt;
+
+&lt;td&gt;N/A&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRICAO&lt;/td&gt;
+
+&lt;td&gt;Monumento Natural Algar do Carvao&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ILHA&lt;/td&gt;
+
+&lt;td&gt;TERCEIRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CONCELHO&lt;/td&gt;
+
+&lt;td&gt;ANGRA DO HEROISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;FREGUESIA&lt;/td&gt;
+
+&lt;td&gt;PORTO JUDEU&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;FONTE&lt;/td&gt;
+
+&lt;td&gt;DIRECAO REGIONAL DE TURISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;td&gt;GEOSSITIO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Monumento Natural Algar do Carvao&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ID&lt;/td&gt;
+
+&lt;td&gt;139&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;CODIGO&lt;/td&gt;
+
+&lt;td&gt;N/A&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRICAO&lt;/td&gt;
+
+&lt;td&gt;Monumento Natural Algar do Carvao&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ILHA&lt;/td&gt;
+
+&lt;td&gt;TERCEIRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CONCELHO&lt;/td&gt;
+
+&lt;td&gt;ANGRA DO HEROISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;FREGUESIA&lt;/td&gt;
+
+&lt;td&gt;PORTO JUDEU&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;FONTE&lt;/td&gt;
+
+&lt;td&gt;DIRECAO REGIONAL DE TURISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;td&gt;GEOSSITIO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-06-20T11:24:23Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.729984220117331" lon="-27.232482545077801">
+    <ele>0</ele>
+    <time>2022-06-20T11:24:23Z</time>
+    <name>Monumento Natural Furnas do Enxofre</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Monumento Natural Furnas do Enxofre&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ID&lt;/td&gt;
+
+&lt;td&gt;1243&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;CODIGO&lt;/td&gt;
+
+&lt;td&gt;N/A&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRICAO&lt;/td&gt;
+
+&lt;td&gt;Monumento Natural Furnas do Enxofre&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ILHA&lt;/td&gt;
+
+&lt;td&gt;TERCEIRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CONCELHO&lt;/td&gt;
+
+&lt;td&gt;ANGRA DO HEROISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;FREGUESIA&lt;/td&gt;
+
+&lt;td&gt;POSTO SANTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;FONTE&lt;/td&gt;
+
+&lt;td&gt;DIRECAO REGIONAL DE TURISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;td&gt;GEOSSITIO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Monumento Natural Furnas do Enxofre&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ID&lt;/td&gt;
+
+&lt;td&gt;1243&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;CODIGO&lt;/td&gt;
+
+&lt;td&gt;N/A&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRICAO&lt;/td&gt;
+
+&lt;td&gt;Monumento Natural Furnas do Enxofre&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ILHA&lt;/td&gt;
+
+&lt;td&gt;TERCEIRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CONCELHO&lt;/td&gt;
+
+&lt;td&gt;ANGRA DO HEROISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;FREGUESIA&lt;/td&gt;
+
+&lt;td&gt;POSTO SANTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;FONTE&lt;/td&gt;
+
+&lt;td&gt;DIRECAO REGIONAL DE TURISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;td&gt;GEOSSITIO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-06-20T11:24:23Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.728171717375517" lon="-27.216837387531996">
+    <ele>0</ele>
+    <time>2022-06-20T11:24:23Z</time>
+    <name>PARQUE DE ESTACIONAMENTO DA GRUTA DO CARVAO</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO DA GRUTA DO CARVAO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ID&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;CODIGO&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRICAO&lt;/td&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO DA GRUTA DO CARVAO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ILHA&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CONCELHO&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;FREGUESIA&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;FONTE&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO DA GRUTA DO CARVAO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ID&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;CODIGO&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRICAO&lt;/td&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO DA GRUTA DO CARVAO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ILHA&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CONCELHO&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;FREGUESIA&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;FONTE&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;BULLET&lt;/td&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-06-20T11:24:23Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <trk>
+    <name>ALGAR DO CARVAO - FURNA DO ENXOFRE</name>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;328ALGAR DO CARVAO - FURNA DO ENXOFRE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SHAPE&lt;/td&gt;
+
+&lt;td&gt;Polyline&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;PERCURSO PEDESTRE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;CODIGO&lt;/td&gt;
+
+&lt;td&gt;PRC10TER&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;NOME&lt;/td&gt;
+
+&lt;td&gt;ALGAR DO CARVAO - FURNA DO ENXOFRE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ETAPA&lt;/td&gt;
+
+&lt;td&gt;N/A&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DISTANCIA&lt;/td&gt;
+
+&lt;td&gt;6,2 KM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;DURACAO&lt;/td&gt;
+
+&lt;td&gt;2h30m&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CATEGORIA&lt;/td&gt;
+
+&lt;td&gt;PR&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;FORMA&lt;/td&gt;
+
+&lt;td&gt;CIRCULAR&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;AVALIACAO_GLOBAL&lt;/td&gt;
+
+&lt;td&gt;MEDIO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;GRAU_DE_DIFICULDADE&lt;/td&gt;
+
+&lt;td&gt;ONDULADO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;GRAU_DE_PERIGOSIDADE&lt;/td&gt;
+
+&lt;td&gt;FAMILIAR&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SITUACAO&lt;/td&gt;
+
+&lt;td&gt;ABERTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;OBSTACULO&lt;/td&gt;
+
+&lt;td&gt;EQUIPAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ENTIDADE_PROPONENTE&lt;/td&gt;
+
+&lt;td&gt;PARQUE NATURAL DA TERCEIRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;RESPONSAVEL_MANUTENCAO&lt;/td&gt;
+
+&lt;td&gt;PARQUE NATURAL DA TERCEIRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;RESPONSAVEL_SINALIZACAO&lt;/td&gt;
+
+&lt;td&gt;DIRECAO REGIONAL DE TURISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;ILHA&lt;/td&gt;
+
+&lt;td&gt;TERCEIRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;CONCELHO&lt;/td&gt;
+
+&lt;td&gt;PRAIA DA VITORIA; ANGRA DO HEROÍSMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;FREGUESIA&lt;/td&gt;
+
+&lt;td&gt;POSTO SANTO; QUATRO RIBEIRAS; BISCOITOS; PORTO JUDEU&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;AREA_PROTEGIDA&lt;/td&gt;
+
+&lt;td&gt;SIM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRICAO_AREA_PROTEGIDA&lt;/td&gt;
+
+&lt;td&gt;Área Protegida para a Gestão de Habitats ou Espécies do Planalto Central e Costa Noroeste; Monumento Natural do Algar do Carvão&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;GEOSSITIO&lt;/td&gt;
+
+&lt;td&gt;SIM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRICAO_GEOSSITIO&lt;/td&gt;
+
+&lt;td&gt;Pico Alto, Biscoito Rachado e Biscoito da Ferraria; Algar do Carvão&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;DATA_ABERTURA&lt;/td&gt;
+
+&lt;td&gt;18/10/2021&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;FONTE&lt;/td&gt;
+
+&lt;td&gt;DIRECAO REGIONAL DO TURISMO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TOPONIMIA&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;ACESSO&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TIPO_DE_PISO&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;RUA_TIPO&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;DOMINIO&lt;/td&gt;
+
+&lt;td&gt;PUBLICO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRICAO_DO_DOMINIO&lt;/td&gt;
+
+&lt;td&gt;N/A&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;RESPONSAVEL_DO_DOMINIO&lt;/td&gt;
+
+&lt;td&gt;N/A&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CONTATO_DO_DOMINIO&lt;/td&gt;
+
+&lt;td&gt;N/A&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SOBREPOSICAO&lt;/td&gt;
+
+&lt;td&gt;NAO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;MANUTENCAO&lt;/td&gt;
+
+&lt;td&gt;SIM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;CONSERVACAO&lt;/td&gt;
+
+&lt;td&gt;BOM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;ESTADO_DE_MANUTENCAO&lt;/td&gt;
+
+&lt;td&gt;BOM&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;DATA_DA_MANUTENCAO&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DIFICULDADE_DA_MANUTENCAO&lt;/td&gt;
+
+&lt;td&gt;FACIL&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Descrição da manutenção&lt;/td&gt;
+
+&lt;td&gt;LIMPEZA VEGETACAO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;OBSERVACOES&lt;/td&gt;
+
+&lt;td&gt;ELIMINAÇÃO DO TROÇO ATE A GRUTA (400M)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;CODIGO_SOBREPOSICAO_&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;UTILIZADOR&lt;/td&gt;
+
+&lt;td&gt;TELMO.C.PACHECO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;DATA ENCERRAMENTO&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;EMPRESA_MANUTENCAO&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ZONA_PROBLEMATICA&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;ESTRUTURA&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;SHAPE_Length&lt;/td&gt;
+
+&lt;td&gt;0,064828&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;SOBREPOSICAO_PROPRIA&lt;/td&gt;
+
+&lt;td&gt;&amp;lt;Null&amp;gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ID_TROCO&lt;/td&gt;
+
+&lt;td&gt;PP_PRC10TER_328&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;ID&lt;/td&gt;
+
+&lt;td&gt;328&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;PRIS&lt;/td&gt;
+
+&lt;td&gt;IMPLEMENTADO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</desc>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>DarkGray</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="38.727999972179532" lon="-27.218328611925244">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728016316890717" lon="-27.218594318255782">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728022016584873" lon="-27.218887098133564">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728065434843302" lon="-27.219385486096144">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728082701563835" lon="-27.219718834385276">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728092927485704" lon="-27.219979176297784">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728078259155154" lon="-27.220166260376573">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728049257770181" lon="-27.220389973372221">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.727983962744474" lon="-27.22072072327137">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.727890336886048" lon="-27.221202179789543">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.727821689099073" lon="-27.221594620496035">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.727920092642307" lon="-27.22161490470171">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.727956051006913" lon="-27.221736861392856">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.727946495637298" lon="-27.222019666805863">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.727942304685712" lon="-27.222144808620214">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728156294673681" lon="-27.222432643175125">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728404650464654" lon="-27.222711844369769">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728636745363474" lon="-27.222849978134036">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728813100606203" lon="-27.222910076379776">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729135384783149" lon="-27.222927426919341">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729260778054595" lon="-27.222931617870927">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729385081678629" lon="-27.22305097617209">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729440905153751" lon="-27.223295476287603">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729328839108348" lon="-27.223766790702939">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729270333424211" lon="-27.223950186744332">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729239907115698" lon="-27.224045405164361">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729263627901673" lon="-27.224227041006088">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729122644290328" lon="-27.224386967718601">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729041088372469" lon="-27.224521078169346">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728871187195182" lon="-27.224806481972337">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728695251047611" lon="-27.225044695660472">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728691060096025" lon="-27.225203113630414">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728712517768145" lon="-27.225408051162958">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.7287787348032" lon="-27.225568145513535">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728863978758454" lon="-27.225815495476127">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728893818333745" lon="-27.225906103849411">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729084925726056" lon="-27.226096792146564">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.72915256768465" lon="-27.226186478510499">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729314338415861" lon="-27.22640834748745">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729375526309013" lon="-27.226556623354554">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729417519643903" lon="-27.226740606129169">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729416681453586" lon="-27.226923583075404">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.72938952408731" lon="-27.227057861164212">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729372592642903" lon="-27.227141680195928">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729228926822543" lon="-27.227392047643661">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.72911250218749" lon="-27.227463545277715">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728986689820886" lon="-27.227522805333138">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728948468342423" lon="-27.227595979347825">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728886106982827" lon="-27.227742243558168">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728750152513385" lon="-27.227765545248985">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728354442864656" lon="-27.227761605754495">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728034337982535" lon="-27.227684408426285">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.727864269167185" lon="-27.227696981281042">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.727730326354504" lon="-27.227662447839975">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.727675592526793" lon="-27.227648282423615">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.727615242823958" lon="-27.227632692083716">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.72740276157856" lon="-27.227682061493397">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.72720486484468" lon="-27.227680217474699">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.727045021951199" lon="-27.227634117007256">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726962544023991" lon="-27.227716008201241">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726870426908135" lon="-27.227765880525112">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.72676313854754" lon="-27.228032927960157">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726609079167247" lon="-27.228196375072002">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726473962888122" lon="-27.228346159681678">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726323340088129" lon="-27.228583954274654">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726201131939888" lon="-27.228761399164796">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726122677326202" lon="-27.228979328647256">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726053861901164" lon="-27.229109667241573">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725959900766611" lon="-27.229202035814524">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725930228829384" lon="-27.229283340275288">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725905418395996" lon="-27.229369841516018">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725851019844413" lon="-27.229559775441885">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.72577122412622" lon="-27.229826906695962">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725680951029062" lon="-27.229932267218828">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.72562563046813" lon="-27.230070484802127">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725483976304531" lon="-27.230233177542686">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725434523075819" lon="-27.230414226651192">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725402839481831" lon="-27.230684040114284">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725386746227741" lon="-27.230866849422455">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725256323814392" lon="-27.231159042567015">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725254898890853" lon="-27.231247136369348">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725421782582998" lon="-27.231371104717255">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725551702082157" lon="-27.231582580134273">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725784299895167" lon="-27.231662878766656">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725800225511193" lon="-27.23175298422575">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725813468918204" lon="-27.23182825371623">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725888151675463" lon="-27.231994466856122">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725947327911854" lon="-27.232218515127897">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.7260174844414" lon="-27.232360588386655">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726006671786308" lon="-27.232479611411691">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.72604631818831" lon="-27.232609866186976">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.72611228376627" lon="-27.232643812894821">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726151091977954" lon="-27.232663845643401">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726227199658751" lon="-27.232673233374953">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726244969293475" lon="-27.232712125405669">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726244550198317" lon="-27.232837099581957">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726180177181959" lon="-27.232937766239047">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726002313196659" lon="-27.233230294659734">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725874656811357" lon="-27.233446715399623">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725685644894838" lon="-27.233787020668387">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725711712613702" lon="-27.233841838315129">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725734259933233" lon="-27.233915012329817">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.72576242312789" lon="-27.233959604054689">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.72581179253757" lon="-27.233985252678394">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725888067856431" lon="-27.234024899080396">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725922349840403" lon="-27.23404954187572">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725952105596662" lon="-27.234045099467039">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.725976077839732" lon="-27.234008638188243">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726003570482135" lon="-27.233952395617962">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726029973477125" lon="-27.233877880498767">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726054951548576" lon="-27.233783081173897">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726100716739893" lon="-27.233678810298443">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726172465831041" lon="-27.233555763959885">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726239437237382" lon="-27.233446380123496">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726287381723523" lon="-27.233378989621997">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726357957348228" lon="-27.233271114528179">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726402213796973" lon="-27.233213447034359">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726441692560911" lon="-27.233143541961908">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726489469408989" lon="-27.23310112953186">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726545544341207" lon="-27.233076905831695">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726586028933525" lon="-27.233092244714499">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726631291210651" lon="-27.233122838661075">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726658616214991" lon="-27.233176231384277">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726690551266074" lon="-27.233282849192619">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726736819371581" lon="-27.233375888317823">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.726817453280091" lon="-27.233510920777917">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.72692440636456" lon="-27.233666572719812">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.727069413289428" lon="-27.233886178582907">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.727200338616967" lon="-27.234014421701431">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.727381220087409" lon="-27.234179377555847">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.727527484297752" lon="-27.234289431944489">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.727711969986558" lon="-27.234437707811594">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.727845242246985" lon="-27.234528232365847">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.727935934439301" lon="-27.234575422480702">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728018160909414" lon="-27.234615236520767">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728155205026269" lon="-27.234644573181868">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728249333798885" lon="-27.234657062217593">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728402471169829" lon="-27.234700229018927">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.72848461382091" lon="-27.234740043058991">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728568013757467" lon="-27.234784467145801">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728644205257297" lon="-27.234799889847636">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728805389255285" lon="-27.234808187931776">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728887028992176" lon="-27.234827047213912">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.72895173728466" lon="-27.234860323369503">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729006554931402" lon="-27.234901813790202">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729037148877978" lon="-27.234937939792871">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729054918512702" lon="-27.235005246475339">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729076292365789" lon="-27.235055537894368">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729124907404184" lon="-27.235159138217568">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729159357026219" lon="-27.235220158472657">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729191459715366" lon="-27.235261313617229">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729234291240573" lon="-27.235307162627578">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729298580437899" lon="-27.235359130427241">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729348620399833" lon="-27.235383605584502">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729397486895323" lon="-27.235399028286338">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729435624554753" lon="-27.235403722152114">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729471331462264" lon="-27.235402297228575">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.72952145524323" lon="-27.235403973609209">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.72955959290266" lon="-27.235401039943099">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729604771360755" lon="-27.235393328592181">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729627151042223" lon="-27.235398190096021">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.72967584989965" lon="-27.235408667474985">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729756902903318" lon="-27.23545384593308">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729832172393799" lon="-27.235524002462626">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729896964505315" lon="-27.235565576702356">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729946501553059" lon="-27.235594997182488">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.730019591748714" lon="-27.235610503703356">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.730080695822835" lon="-27.235596757382154">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.730124281719327" lon="-27.235554847866297">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73016350902617" lon="-27.235493408516049">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.730197455734015" lon="-27.235347563400865">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73020944185555" lon="-27.235244633629918">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.730240203440189" lon="-27.235085880383849">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73029787093401" lon="-27.235001642256975">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.730360567569733" lon="-27.234910111874342">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.730514124035835" lon="-27.234779773280025">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.730627112090588" lon="-27.234707940369844">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.7307283654809" lon="-27.234737947583199">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.730785697698593" lon="-27.23475999198854">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.730867588892579" lon="-27.234821179881692">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.730949480086565" lon="-27.234896952286363">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.730981750413775" lon="-27.234989572316408">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731025336310267" lon="-27.235116306692362">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731049979105592" lon="-27.235206495970488">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731095409020782" lon="-27.235361561179161">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731161961331964" lon="-27.235488379374146">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731217030435801" lon="-27.235595751553774">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731304537504911" lon="-27.235710499808192">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731371257454157" lon="-27.235761880874634">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731443593278527" lon="-27.235801024362445">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73153218999505" lon="-27.235831115394831">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73159958049655" lon="-27.23588484339416">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731639813631773" lon="-27.235947791486979">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731690607964993" lon="-27.236111154779792">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731728494167328" lon="-27.236225735396147">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731797225773335" lon="-27.236322965472937">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731875848025084" lon="-27.236385410651565">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732039546594024" lon="-27.236493118107319">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73216301202774" lon="-27.236574338749051">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732303492724895" lon="-27.236594120040536">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732568863779306" lon="-27.236635191366076">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732677577063441" lon="-27.236630665138364">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732767263427377" lon="-27.236613901332021">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732847478240728" lon="-27.236580122262239">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732914365828037" lon="-27.236536452546716">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732981337234378" lon="-27.236419776454568">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733034143224359" lon="-27.236256832256913">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733082003891468" lon="-27.236176617443562">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733127852901816" lon="-27.236135378479958">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733238577842712" lon="-27.236087014898658">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733435971662402" lon="-27.235942427068949">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73350378125906" lon="-27.235867157578468">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733585001900792" lon="-27.235751738771796">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733608135953546" lon="-27.235623998567462">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733628671616316" lon="-27.235510675236583">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733628671616316" lon="-27.235330883413553">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733628671616316" lon="-27.235122257843614">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733606962487102" lon="-27.235016645863652">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733574692159891" lon="-27.234924025833607">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733532950282097" lon="-27.23482889123261">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73345835134387" lon="-27.234736103564501">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733422225341201" lon="-27.234675167128444">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733412837609649" lon="-27.234614230692387">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733428176492453" lon="-27.234575338661671">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733468325808644" lon="-27.234541308134794">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733563711866736" lon="-27.234507529065013">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733731685206294" lon="-27.234466709196568">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733886163681746" lon="-27.234457489103079">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734012059867382" lon="-27.234470061957836">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734049862250686" lon="-27.234512977302074">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734076684340835" lon="-27.234589587897062">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734133681282401" lon="-27.234718836843967">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73418296687305" lon="-27.234867615625262">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734222780913115" lon="-27.234987057745457">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734254883602262" lon="-27.23512108437717">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734298469498754" lon="-27.235299032181501">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734353454783559" lon="-27.235435573384166">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734408691525459" lon="-27.235503969714046">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734469544142485" lon="-27.235567420721054">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734524780884385" lon="-27.235606648027897">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734601056203246" lon="-27.235631207004189">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734704740345478" lon="-27.235668087378144">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734748577699065" lon="-27.235673116520047">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734870618209243" lon="-27.235717372968793">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734946893528104" lon="-27.235717624425888">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735021324828267" lon="-27.235710499808192">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73509181663394" lon="-27.235735142603517">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735196590423584" lon="-27.235803622752428">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735282337293029" lon="-27.235850226134062">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735387194901705" lon="-27.235891968011856">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735497668385506" lon="-27.235943432897329">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735583582893014" lon="-27.235936392098665">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735701935365796" lon="-27.235897835344076">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735827999189496" lon="-27.235803287476301">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735916428267956" lon="-27.235645623877645">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735973341390491" lon="-27.235547387972474">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735979376360774" lon="-27.235448230057955">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.736004354432225" lon="-27.235360639169812">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.736037043854594" lon="-27.235238933935761">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.736069649457932" lon="-27.235151426866651">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.736128741875291" lon="-27.235074900090694">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.736163442954421" lon="-27.234978759661317">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.736173249781132" lon="-27.234871638938785">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.736160844564438" lon="-27.234734678640962">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.736152797937393" lon="-27.234576931223273">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.736137878149748" lon="-27.234425889328122">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.736107619479299" lon="-27.234286917373538">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.736077360808849" lon="-27.234174851328135">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.736054645851254" lon="-27.23407736979425">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.736016927286983" lon="-27.233843430876732">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.736009635031223" lon="-27.23369968123734">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.736005863174796" lon="-27.233646120876074">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735992619767785" lon="-27.233612006530166">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735958253964782" lon="-27.233619131147861">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735923888161778" lon="-27.233641007915139">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735898993909359" lon="-27.233682330697775">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735868399962783" lon="-27.233726000413299">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735837722197175" lon="-27.233786853030324">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735768822953105" lon="-27.233927836641669">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735743928700686" lon="-27.233959436416626">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735700007528067" lon="-27.233983660116792">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735663713887334" lon="-27.234003022313118">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735619876533747" lon="-27.234007716178894">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735579811036587" lon="-27.233997825533152">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735541673377156" lon="-27.23398307338357">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735511247068644" lon="-27.23396354354918">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735478892922401" lon="-27.233907384797931">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735459949821234" lon="-27.233834294602275">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73545634560287" lon="-27.233746619895101">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735431786626577" lon="-27.233641762286425">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735305471345782" lon="-27.233191821724176">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735205139964819" lon="-27.232976239174604">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735157698392868" lon="-27.232832405716181">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735119644552469" lon="-27.232800554484129">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735049571841955" lon="-27.232794519513845">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735005231574178" lon="-27.232770966365933">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73493105173111" lon="-27.232697708532214">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734889226034284" lon="-27.232624450698495">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734857123345137" lon="-27.232451448217034">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734834240749478" lon="-27.232233854010701">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734812280163169" lon="-27.232139306142926">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734800796955824" lon="-27.232061019167304">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734775399789214" lon="-27.231888603419065">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734697951003909" lon="-27.231142530217767">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734608935192227" lon="-27.230607932433486">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734592087566853" lon="-27.230559652671218">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734542466700077" lon="-27.230497794225812">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734487229958177" lon="-27.230439204722643">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734424533322453" lon="-27.230297718197107">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734424784779549" lon="-27.230202751234174">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734434507787228" lon="-27.230085907503963">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734402321279049" lon="-27.229951797053218">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734349180012941" lon="-27.229842077940702">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734278855845332" lon="-27.229710314422846">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734242813661695" lon="-27.229583580046892">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734252620488405" lon="-27.22947402857244">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734258487820625" lon="-27.229379061609507">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734291009604931" lon="-27.229323154315352">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734411038458347" lon="-27.229215865954757">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73447272926569" lon="-27.229097262024879">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734505334869027" lon="-27.228980418294668">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734520757570863" lon="-27.228887965902686">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734545819461346" lon="-27.228773552924395">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734589824452996" lon="-27.228692835196853">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734733993187547" lon="-27.228506421670318">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734825607389212" lon="-27.228364935144782">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734937841072679" lon="-27.228162344545126">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73498578555882" lon="-27.228068970143795">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735012859106064" lon="-27.227926393970847">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734981259331107" lon="-27.22772522829473">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734910599887371" lon="-27.227573599666357">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734746985137463" lon="-27.227341756224632">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734631817787886" lon="-27.227207394316792">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734553782269359" lon="-27.227138997986913">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734409110620618" lon="-27.226982675492764">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734327303245664" lon="-27.226880164816976">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734266618266702" lon="-27.226694840937853">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73421523720026" lon="-27.226609429344535">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734147259965539" lon="-27.226530639454722">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734055394306779" lon="-27.226411700248718">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733988925814629" lon="-27.226289743557572">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733952967450023" lon="-27.226128894835711">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73391323722899" lon="-27.22593879327178">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733845092356205" lon="-27.225670656189322">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733824389055371" lon="-27.225536713376641">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73383411206305" lon="-27.225439315661788">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733870573341846" lon="-27.225350299850106">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733880212530494" lon="-27.22529430873692">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733882224187255" lon="-27.225201772525907">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733880715444684" lon="-27.224999601021409">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733888594433665" lon="-27.224868172779679">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733921200037003" lon="-27.224795166403055">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733944250270724" lon="-27.224710006266832">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733975682407618" lon="-27.224626103416085">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734000492841005" lon="-27.224536668509245">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734037708491087" lon="-27.224432397633791">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734045000746846" lon="-27.224354781210423">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734052293002605" lon="-27.224289318546653">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734082216396928" lon="-27.22423005849123">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734109625220299" lon="-27.224210361018777">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734172824770212" lon="-27.224212121218443">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73422403819859" lon="-27.224238105118275">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734306180849671" lon="-27.224285546690226">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734357478097081" lon="-27.224290324375033">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734428305178881" lon="-27.224271129816771">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734507681801915" lon="-27.224165936931968">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734627291560173" lon="-27.224117992445827">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734736675396562" lon="-27.224107347428799">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734864164143801" lon="-27.224133582785726">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734967932105064" lon="-27.224136935546994">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735019229352474" lon="-27.22412645816803">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735057367011905" lon="-27.224099216982722">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735077735036612" lon="-27.22405512817204">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735089804977179" lon="-27.224003411829472">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735088966786861" lon="-27.223912132903934">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735096007585526" lon="-27.223740136250854">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735104389488697" lon="-27.223553387448192">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73511821962893" lon="-27.223340487107635">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735099276527762" lon="-27.223150888457894">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735070861876011" lon="-27.222942849621177">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735037837177515" lon="-27.222686111927032">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735103635117412" lon="-27.222515121102333">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735177144408226" lon="-27.222436582669616">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735202373936772" lon="-27.222346812486649">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735209498554468" lon="-27.222228460013866">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735222909599543" lon="-27.222189651802182">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735234392806888" lon="-27.222150843590498">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735235901549459" lon="-27.222144054248929">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735250737518072" lon="-27.222075574100018">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735267585143447" lon="-27.221965603530407">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735268339514732" lon="-27.221930650994182">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73526917770505" lon="-27.221807353198528">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735256772488356" lon="-27.221783045679331">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735254509374499" lon="-27.22177860327065">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735246462747455" lon="-27.22174683585763">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735247971490026" lon="-27.221710626035929">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73525652103126" lon="-27.221676427870989">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735259538516402" lon="-27.221642732620239">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735266495496035" lon="-27.221610797569156">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73527362011373" lon="-27.221582382917404">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735274542123079" lon="-27.221552962437272">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735271524637938" lon="-27.221486996859312">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735271273180842" lon="-27.221452966332436">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735255263745785" lon="-27.221222463995218">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73520715162158" lon="-27.220979388803244">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735135570168495" lon="-27.220706138759851">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735133390873671" lon="-27.220641179010272">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735134396702051" lon="-27.220412436872721">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735141353681684" lon="-27.220251923426986">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735153842717409" lon="-27.220200793817639">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735190639272332" lon="-27.220050171017647">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735197680070996" lon="-27.220010859891772">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735201116651297" lon="-27.219970542937517">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735200110822916" lon="-27.219927795231342">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735196590423584" lon="-27.219780022278428">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735163901001215" lon="-27.219646330922842">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735138420015574" lon="-27.219606768339872">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735116124153137" lon="-27.219580700621009">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735115369781852" lon="-27.219579694792628">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735070526599884" lon="-27.219521943479776">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735061977058649" lon="-27.219488248229027">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735058037564158" lon="-27.219452038407326">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735057367011905" lon="-27.219414990395308">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735053427517414" lon="-27.219377271831036">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735045213252306" lon="-27.219315245747566">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735041860491037" lon="-27.219289261847734">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735029036179185" lon="-27.219253638759255">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735028197988868" lon="-27.219251375645399">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735017720609903" lon="-27.219213824719191">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735014451667666" lon="-27.219173088669777">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735018977895379" lon="-27.218895647674799">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735019732266665" lon="-27.218856504186988">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735022163018584" lon="-27.218786096200347">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735026521608233" lon="-27.218716694042087">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735027108341455" lon="-27.218688279390335">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735027778893709" lon="-27.218654584139585">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735028365626931" lon="-27.218625750392675">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735024426132441" lon="-27.218562802299857">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735012942925096" lon="-27.218541009351611">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.735008500516415" lon="-27.218532711267471">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734986959025264" lon="-27.218506308272481">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734971955418587" lon="-27.218478647992015">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734930297359824" lon="-27.218440091237426">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734894087538123" lon="-27.218430368229747">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73478788882494" lon="-27.218422489240766">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734761569648981" lon="-27.218411173671484">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734741369262338" lon="-27.21839239820838">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734695101156831" lon="-27.218360546976328">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734672553837299" lon="-27.218350572511554">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734648497775197" lon="-27.218339927494526">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734621005132794" lon="-27.218336407095194">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734592674300075" lon="-27.21833229996264">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734541879966855" lon="-27.218319810926914">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734513549134135" lon="-27.218306818976998">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734470717608929" lon="-27.21827756613493">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734403494745493" lon="-27.218231717124581">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734395448118448" lon="-27.218223502859473">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734353287145495" lon="-27.21818033605814">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734337948262691" lon="-27.218164745718241">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734328309074044" lon="-27.21815493889153">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734216326847672" lon="-27.218079250305891">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734192689880729" lon="-27.21807480789721">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734166454523802" lon="-27.218073215335608">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73410920612514" lon="-27.218076484277844">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.734080288559198" lon="-27.218076316639781">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733852636069059" lon="-27.218068689107895">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733811564743519" lon="-27.218062654137611">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733772085979581" lon="-27.218056870624423">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73354921117425" lon="-27.217950923368335">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733467236161232" lon="-27.217918988317251">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733439156785607" lon="-27.217919742688537">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733408814296126" lon="-27.217931728810072">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73335768468678" lon="-27.217959053814411">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73333714902401" lon="-27.217975649982691">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733316194266081" lon="-27.217988641932607">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733294485136867" lon="-27.217998784035444">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733223909512162" lon="-27.218023929744959">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.733075130730867" lon="-27.218073969706893">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732868432998657" lon="-27.218246720731258">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732697861269116" lon="-27.218404971063137">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732616472989321" lon="-27.218504631891847">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732576658949256" lon="-27.218553330749273">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732538353651762" lon="-27.218600185588002">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.73247230425477" lon="-27.218705881386995">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732470795512199" lon="-27.218708395957947">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732454115524888" lon="-27.218728763982654">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732432657852769" lon="-27.218750473111868">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732411032542586" lon="-27.218765392899513">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732394855469465" lon="-27.218779139220715">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732389323413372" lon="-27.218783833086491">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732380019500852" lon="-27.218789784237742">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732364010065794" lon="-27.218800093978643">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732332158833742" lon="-27.218810319900513">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732230318710208" lon="-27.218850636854768">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.732007779181004" lon="-27.218959014862776">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731927899643779" lon="-27.218988686800003">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731914656236768" lon="-27.218992542475462">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731905100867152" lon="-27.218992626294494">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731884229928255" lon="-27.218992710113525">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731645178049803" lon="-27.218972258269787">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731570998206735" lon="-27.218951722607017">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731527244672179" lon="-27.218939568847418">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731471672654152" lon="-27.218941496685147">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731458932161331" lon="-27.218941915780306">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731384752318263" lon="-27.218948202207685">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731360947713256" lon="-27.218950213864446">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731314176693559" lon="-27.218954153358936">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731250390410423" lon="-27.218944849446416">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731221640482545" lon="-27.218926325440407">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731195405125618" lon="-27.218903861939907">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731174618005753" lon="-27.218878548592329">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731103288009763" lon="-27.21875986084342">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731094738468528" lon="-27.218729434534907">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.731074873358011" lon="-27.218670174479485">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.730998849496245" lon="-27.218623654916883">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.730806903913617" lon="-27.218570429831743">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.730647563934326" lon="-27.218570429831743">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.730380516499281" lon="-27.218682914972305">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.730070134624839" lon="-27.218753742054105">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.730001570656896" lon="-27.218769416213036">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729886738583446" lon="-27.218795651569963">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.72952095232904" lon="-27.218888690695167">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729417771100998" lon="-27.218862622976303">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.729274356737733" lon="-27.218800177797675">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728419067338109" lon="-27.218436822295189">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.72833164408803" lon="-27.21840069629252">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.728162245824933" lon="-27.218350488692522">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.727999972179532" lon="-27.218328611925244">
+        <ele>0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>

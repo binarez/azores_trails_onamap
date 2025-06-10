@@ -1,0 +1,858 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <!-- Google tag (gtag.js) -->
+  <script type="text/plain" data-category="analytics" async src="https://www.googletagmanager.com/gtag/js?id=G-6YXM8YLNVD"></script>
+  <script type="text/plain" data-category="analytics">
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-6YXM8YLNVD');
+  </script>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://trails.visitazores.com/sites/default/files/favicon_1.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="Discover the hiking route PRC5SMI Serra Devassa. View the map and download the GPS track." />
+<meta name="keywords" content="serra devassa" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://trails.visitazores.com/en/trails-azores/sao-miguel/serra-devassa" />
+<link rel="shortlink" href="https://trails.visitazores.com/en/node/87" />
+<meta property="og:site_name" content="Azores Trails" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://trails.visitazores.com/en/trails-azores/sao-miguel/serra-devassa" />
+<meta property="og:title" content="Serra Devassa" />
+<meta property="og:description" content="Integrated in a Protected Area, this small circular route in Serra Devassa allows you to walk along volcanic cones and small lakes. This trail unfolds between an altitude of 750 to 900 meters, being advisable to walk in days of good visibility. Begin the walk in the parking place opposite the Forest Park of Mata do Canário. Go up the hill, around a swampy area and following right on the fork." />
+<meta property="og:updated_time" content="2023-11-17T15:13:19-01:00" />
+<meta property="article:published_time" content="2013-06-22T22:01:33+00:00" />
+<meta property="article:modified_time" content="2023-11-17T15:13:19-01:00" />
+  <title>PRC5SMI Serra Devassa - Maps and GPS Tracks - Hiking Routes in São Miguel - Trails in Azores</title>
+  <link type="text/css" rel="stylesheet" href="https://trails.visitazores.com/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://trails.visitazores.com/sites/default/files/css/css_iJ3HTDH43Cmanuu-aIOTMHU1_m0RMpj_cFU9jLaSNZU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://trails.visitazores.com/sites/default/files/css/css_5pO73qc-z-zv4xoH8aIAp_Prq1thKg1qz9beR7eKaZg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://trails.visitazores.com/sites/default/files/css/css_eIoRzg2o5a3MWmhR6hjfj5bsBrimlcPG5_N3KcqF7vs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://trails.visitazores.com/sites/default/files/css/css_QeHtiap61UxeV_ZeBxXR5k3Ohdta8SglIG4A77Dw6Kg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://trails.visitazores.com/sites/default/files/css/css_UnTyVyHtRLf188XjmZ2eTMAksZwUUfFEvsBwetyjLOw.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="https://trails.visitazores.com/sites/all/themes/trails/css/ie.css?sitrxr" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="https://trails.visitazores.com/sites/all/themes/trails/css/ie6.css?sitrxr" media="all" />
+<![endif]-->
+
+  <!-- Cookie Consent plugin styles -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orestbida/iframemanager@1.2.5/dist/iframemanager.css"/>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@v3.0.1/dist/cookieconsent.css"/>
+  <link rel="stylesheet" href="https://trails.visitazores.com/sites/all/themes/trails/libs_custom/cookieconsent/cookieconsent-config.css" />
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-87 node-type-trails i18n-en" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <script type="text/javascript">
+(function ($) {
+  $(document).ready(function() {
+    var timeIntervalHomepage = 5000;
+    var totalImagesHomepage = 3;
+    var i=0;
+    var galleryHomepageTimer = setInterval(galleryHomepageNext, timeIntervalHomepage);
+    function galleryHomepageNext() {
+      $("#imagehomepage"+i).fadeTo(500, 0);
+      i++;
+      if(i==totalImagesHomepage){
+        i=0;
+      }
+      $("#imagehomepage"+i).fadeTo(500, 1);
+    }
+  });
+})(jQuery);
+</script>
+<div class="slideshow">
+  <img id="imagehomepage0" class="imageslideshow" src="https://trails.visitazores.com/sites/default/files/Faj%C3%A3-da-Caldeira-do-Santo-Cristo.jpg" alt="Fajã da Caldeira do Santo Cristo">
+        <img id="imagehomepage1" class="imageslideshow" style="display: none;" src="https://trails.visitazores.com/sites/default/files/Faj%C3%A3-Grande.jpg" alt="Fajã Grande">
+        <img id="imagehomepage2" class="imageslideshow" style="display: none;" src="https://trails.visitazores.com/sites/default/files/Fogo-Lake.jpg" alt="Fogo Lake">
+  </div>
+<div id="page-wrapper">
+  <div id="page">
+    <div id="header" class="without-secondary-menu"><div class="section clearfix">
+            <a href="https://www.visitazores.com/en" rel="visitazores" id="logo">
+        <img src="/sites/all/themes/trails/images/azoreslogo-en.png" alt="Azores Trails">
+      </a>
+    
+      <div class="region region-header">
+    <div id="block-lang-dropdown-language" class="block block-lang-dropdown">
+
+    <h2 class="element-invisible">Languages</h2>
+  
+  <div class="content">
+    <form action="/en/trails-azores/sao-miguel/serra-devassa" method="post" id="lang-dropdown-form" accept-charset="UTF-8"><div><div class="form-item form-type-select form-item-lang-dropdown-select">
+ <select style="width:50px" class="lang-dropdown-select-element form-select" id="edit-lang-dropdown-select" name="lang_dropdown_select"><option value="en" selected="selected">English</option><option value="fr">Français</option><option value="de">Deutsch</option><option value="pt-pt">Português</option><option value="es">Español</option><option value="it">Italiano</option></select>
+</div>
+<input type="hidden" name="lang_dropdown_type" value="language" />
+<input type="hidden" name="en" value="/en/trails-azores/sao-miguel/serra-devassa" />
+<input type="hidden" name="fr" value="/fr/sentiers-des-acores/sao-miguel/serra-devassa" />
+<input type="hidden" name="de" value="/de/wanderwege-der-azoren/sao-miguel/serra-devassa" />
+<input type="hidden" name="pt-pt" value="/pt-pt/trilhos-dos-a%C3%A7ores/sao-miguel/serra-devassa" />
+<input type="hidden" name="es" value="/es/senderos-de-las-azores/sao-miguel/serra-devassa" />
+<input type="hidden" name="it" value="/it/trails-azores/sao-miguel/serra-devassa" />
+<noscript><div>
+<input type="submit" id="edit-submit" name="op" value="Go" class="form-submit" />
+</div></noscript><input type="hidden" name="form_build_id" value="form-wTAyx1WaCT2N5NGK1G6Edah6XrP54lOGbUfn_MZJnpw" />
+<input type="hidden" name="form_id" value="lang_dropdown_form" />
+</div></form>  </div>
+</div>
+<div id="block-visitazores-sso" class="block block-visitazores">
+
+    <h2 class="element-invisible">Login</h2>
+  
+  <div class="content">
+    <div id="sso-menu">
+    <ul class="links inline clearfix">
+                    <li><a class="sso-login-form" href="#">Login</a></li>
+            <li><a href="https://www.visitazores.com/en/user/register">Register</a></li>
+            </ul>
+    <div id="sso-login-wrapper" style="display: none;">
+        <form action="/en/trails-azores/sao-miguel/serra-devassa" method="post" id="visitazores-sso-login-form" accept-charset="UTF-8"><div><div id="edit-error" class="form-item form-type-item">
+ 
+</div>
+<div class="form-item form-type-textfield form-item-username">
+  <label for="edit-username">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-username" name="username" value="" size="100" maxlength="128" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-password">
+  <label for="edit-password">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-password" name="password" size="100" maxlength="128" class="form-text required" />
+</div>
+<p><a href="https://www.visitazores.com/en/user/password" target="_blank">Forgot Your Password?</a></p><input type="submit" id="edit-submit--2" name="op" value="Login" class="form-submit" /><input type="hidden" name="form_build_id" value="form-o2Yu4nhT6sa3uLXB0qE_R0zNSDwtd1QZl9zsl3aFRv8" />
+<input type="hidden" name="form_id" value="visitazores_sso_login_form" />
+</div></form>    </div>
+</div>
+  </div>
+</div>
+  </div>
+
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+          <div id="header-azores-trails">
+      <div class="bannerlogo">
+        <a href="/en">
+            <img src="/sites/all/themes/trails/images/bannerlogo_en.png" alt="Azores Trails">
+       </a>
+      </div>
+              <div id="block-video"><div class="section clearfix">
+        <div class="region region-block-video">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    <div data-iframe-width="240" data-iframe-height="180" data-service="youtube" data-id="PLqhbRDOxm-xhvDz44G-ErVvZ3YGmA_M3V" data-thumbnail="https://i3.ytimg.com/vi/07gZhdFHuUg/hqdefault.jpg" data-autoscale style="max-width: 240px; min-width: 240px; height: 180px;"></div>  </div>
+</div>
+  </div>
+    </div></div> <!-- /.section, /#featured -->
+      </div>
+
+  <div id="main-wrapper" class="clearfix">
+    <div id="main" class="clearfix">
+    
+        <div id="content" class="column">
+                  <div id="trailsmainmenu">
+          <div class="tablemainmenu">
+              <div class="region region-trailsmainmenu">
+    <div id="block-nice-menus-2" class="block block-nice-menus">
+
+    
+  <div class="content">
+    <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-2"><li class="menu-667 menuparent  menu-path-node-176 active-trail first odd "><a href="/en/trails-azores">Azores Trails</a><ul><li class="menu-689 menu-path-node-176 first odd "><a href="/en/trails-azores">Trails in Azores</a></li>
+<li class="menu-1731  menu-path-grand-routes  even "><a href="/en/grand-routes">Grand Routes</a></li>
+<li class="menu-402 menu-path-node-175  odd "><a href="/en/ethics-safety">Ethics &amp; Safety</a></li>
+<li class="menu-464 menu-path-find-a-specialist  even "><a href="/en/find-a-specialist">Touristic Offer</a></li>
+<li class="menu-1717 menu-path-media-articles  odd last"><a href="/en/media-articles">Media Articles</a></li>
+</ul></li>
+<li class="menu-360 menuparent  menu-path-azores-islands  even "><a href="/en/azores-islands">Azores Islands</a><ul><li class="menu-466 menu-path-node-5 first odd "><a href="/en/islands/santa-maria-0">Santa Maria</a></li>
+<li class="menu-403 menu-path-node-12  even "><a href="/en/islands/sao-miguel-0">São Miguel</a></li>
+<li class="menu-467 menu-path-node-14  odd "><a href="/en/islands/terceira-0">Terceira</a></li>
+<li class="menu-468 menu-path-node-16  even "><a href="/en/islands/graciosa-0">Graciosa</a></li>
+<li class="menu-469 menu-path-node-18  odd "><a href="/en/islands/sao-jorge-0">São Jorge</a></li>
+<li class="menu-471 menu-path-node-22  even "><a href="/en/islands/pico-0">Pico</a></li>
+<li class="menu-470 menu-path-node-20  odd "><a href="/en/islands/faial-0">Faial</a></li>
+<li class="menu-472 menu-path-node-24  even "><a href="/en/islands/flores-0">Flores</a></li>
+<li class="menu-473 menu-path-node-26  odd last"><a href="/en/islands/corvo-0">Corvo</a></li>
+</ul></li>
+<li class="menu-397 menuparent  menu-path-visitazorescom-en-experience-the-azores  odd "><a href="http://www.visitazores.com/en/experience-the-azores" target="_blank">Things To Do</a><ul><li class="menu-406 menu-path-svisitazorescom-en-experience-the-azores-whale-watching first odd "><a href="https://www.visitazores.com/en/experience-the-azores/whale-watching" target="_blank">Whale Watching</a></li>
+<li class="menu-423 menu-path-svisitazorescom-en-experience-the-azores-golf  even "><a href="https://www.visitazores.com/en/experience-the-azores/golf" target="_blank">Golf</a></li>
+<li class="menu-405 menu-path-divevisitazorescom-en  odd "><a href="http://dive.visitazores.com/en" target="_blank">Scuba Diving</a></li>
+<li class="menu-364 menu-path-svisitazorescom-en-experience-the-azores-geotourism  even "><a href="https://www.visitazores.com/en/experience-the-azores/geotourism" target="_blank">Geotourism</a></li>
+<li class="menu-424 menu-path-bikingvisitazorescom-en  odd "><a href="http://biking.visitazores.com/en" target="_blank">Bike Tours / BTT</a></li>
+<li class="menu-425 menu-path-svisitazorescom-en-experience-the-azores-bird-watching  even "><a href="https://www.visitazores.com/en/experience-the-azores/bird-watching" target="_blank">Bird Watching</a></li>
+<li class="menu-419 menu-path-surfvisitazorescom-en  odd "><a href="http://surf.visitazores.com/en" target="_blank">Surf</a></li>
+<li class="menu-421 menu-path-svisitazorescom-en-experience-the-azores-big-game-fishing  even "><a href="https://www.visitazores.com/en/experience-the-azores/big-game-fishing" target="_blank">Big Game Fishing</a></li>
+<li class="menu-426 menu-path-svisitazorescom-en-experience-the-azores-yachting  odd "><a href="https://www.visitazores.com/en/experience-the-azores/yachting" target="_blank">Yatching</a></li>
+<li class="menu-420 menu-path-svisitazorescom-en-experience-the-azores-canoeing-kayaking  even "><a href="https://www.visitazores.com/en/experience-the-azores/canoeing-kayaking" target="_blank">Canoeing/Kayaking</a></li>
+<li class="menu-422 menu-path-svisitazorescom-en-experience-the-azores-paragliding  odd "><a href="https://www.visitazores.com/en/experience-the-azores/paragliding" target="_blank">Paragliding</a></li>
+<li class="menu-427 menu-path-svisitazorescom-en-experience-the-azores-horse-rides  even last"><a href="https://www.visitazores.com/en/experience-the-azores/horse-rides" target="_blank">Horseback Riding</a></li>
+</ul></li>
+<li class="menu-398 menuparent  menu-path-svisitazorescom-en-plan-your-visit  even last"><a href="https://www.visitazores.com/en/plan-your-visit?width=385&amp;height=290&amp;iframe=true" class="colorbox-load">Book Your Trip</a><ul><li class="menu-428 menu-path-visitazorescom-en-getting-here first odd "><a href="http://www.visitazores.com/en/getting-here" target="_blank">Travel to the Azores</a></li>
+<li class="menu-474 menu-path-svisitazorescom-en-plan-your-visitoperador  even "><a href="https://www.visitazores.com/en/plan-your-visit#operador" target="_blank">Travel Agencies</a></li>
+<li class="menu-475 menu-path-visitazorescom-en-accommodations  odd "><a href="http://www.visitazores.com/en/accommodations" target="_blank">Accommodation</a></li>
+<li class="menu-477 menu-path-svisitazorescom-en-plan-your-visittransporte  even last"><a href="https://www.visitazores.com/en/plan-your-visit#transporte" target="_blank">Car Rental</a></li>
+</ul></li>
+</ul>
+  </div>
+</div>
+  </div>
+          </div>
+        </div>
+                    <!-- <div id="main-menu" class="navigation"> -->
+                  <!-- </div>  -->
+        <!-- /#main-menu -->
+                  <div class="section clearfix">
+                <div id="menu-side-left">
+            <img src="/sites/all/themes/trails/images/menu_side.png" alt="Menu Side"/>
+          </div>
+          <div id="menu-side-right">
+            <img src="/sites/all/themes/trails/images/menu_side.png" alt="Menu Side"/>
+          </div>
+      
+                <div id="breadcrumb">
+        <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/en">Home</a> » <a href="/en/trails-azores">Azores Trails</a> » <a href="/en/trails-azores/sao-miguel">São Miguel</a></div><span class="breadcrumb">&nbsp;&raquo; Serra Devassa</span>        </div>
+                                <a id="main-content"></a>
+                        <h1 class="title" id="page-title">
+          <div>Serra Devassa - <span class="tinsland">São Miguel</span> <span class="trailcode">PRC05 SMI</span></div>        </h1>
+                              <div class="tabs">
+                      </div>
+                                <div id="shadow-left"></div>
+        <div id="shadow-right"></div>
+          <div class="region region-content">
+      <div class="region region-content">
+    <div id="block-views-video-block" class="block block-views">
+
+    
+  <div class="content">
+    <div class="view view-video view-id-video view-display-id-block view-dom-id-3cd6854979fa173fecd95fa0af70825b">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-video">    <span class="views-label views-label-field-video">video: </span>    <div class="field-content"></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div class="panel-flexible panels-flexible-2 clearfix" >
+<div class="panel-flexible-inside panels-flexible-2-inside">
+<div class="panels-flexible-column panels-flexible-column-2-5 panels-flexible-column-first ">
+  <div class="inside panels-flexible-column-inside panels-flexible-column-2-5-inside panels-flexible-column-inside-first">
+<div class="panels-flexible-region panels-flexible-region-2-left panels-flexible-region-first panels-flexible-region-last left-content">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-2-left-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-block pane-views-trails-slideshow-block"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-trails-slideshow view-id-trails_slideshow view-display-id-block view-dom-id-bf16f0bd7d1c81024d90dd898da07726">
+        
+  
+  
+      <div class="view-content">
+      
+<div class="skin-default">
+    <div class="views-slideshow-controls-bottom clearfix">
+      <div id="views_slideshow_controls_text_trails_slideshow-block_1" class="views-slideshow-controls-text views_slideshow_controls_text">
+  <span id="views_slideshow_controls_text_previous_trails_slideshow-block_1" class="views-slideshow-controls-text-previous views_slideshow_controls_text_previous">
+  <a href="#" rel="prev">Previous</a>
+</span>
+  <span id="views_slideshow_controls_text_pause_trails_slideshow-block_1" class="views-slideshow-controls-text-pause views_slideshow_controls_text_pause  views-slideshow-controls-text-status-play"><a href="#">Pause</a></span>
+  <span id="views_slideshow_controls_text_next_trails_slideshow-block_1" class="views-slideshow-controls-text-next views_slideshow_controls_text_next">
+  <a href="#" rel="next">Next</a>
+</span>
+</div>
+    </div>
+    <div id="views_slideshow_cycle_main_trails_slideshow-block_1" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_trails_slideshow-block_1" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_trails_slideshow-block_1_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-first views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first">
+    
+  <div class="views-field views-field-field-slideshow">        <div class="field-content"><img typeof="foaf:Image" src="https://trails.visitazores.com/sites/default/files/styles/slideshow-trails/public/1_58.jpg?itok=kKUE3JZP" width="450" height="295" alt="" title="Serra Devassa" /></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_trails_slideshow-block_1_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-slideshow">        <div class="field-content"><img typeof="foaf:Image" src="https://trails.visitazores.com/sites/default/files/styles/slideshow-trails/public/2_67.jpg?itok=AcRzqM6m" width="450" height="295" alt="" title="Serra Devassa" /></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_trails_slideshow-block_1_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-slideshow">        <div class="field-content"><img typeof="foaf:Image" src="https://trails.visitazores.com/sites/default/files/styles/slideshow-trails/public/dscn3360.jpg?itok=JWTWuCv3" width="450" height="295" alt="" title="Serra Devassa" /></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_trails_slideshow-block_1_3" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-slideshow">        <div class="field-content"><img typeof="foaf:Image" src="https://trails.visitazores.com/sites/default/files/styles/slideshow-trails/public/dscn3424.jpg?itok=9JKyhYYk" width="450" height="295" alt="" title="Serra Devassa" /></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_trails_slideshow-block_1_4" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-slideshow">        <div class="field-content"><img typeof="foaf:Image" src="https://trails.visitazores.com/sites/default/files/styles/slideshow-trails/public/dsc00719.jpg?itok=dMqhA6Fy" width="450" height="295" alt="" /></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_trails_slideshow-block_1_5" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-6 views_slideshow_cycle_hidden views-row-even" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-slideshow">        <div class="field-content"><img typeof="foaf:Image" src="https://trails.visitazores.com/sites/default/files/styles/slideshow-trails/public/dsc00798.jpg?itok=fiPZFnhi" width="450" height="295" alt="" /></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_trails_slideshow-block_1_6" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-7 views_slideshow_cycle_hidden views-row-last views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd">
+    
+  <div class="views-field views-field-field-slideshow">        <div class="field-content"><img typeof="foaf:Image" src="https://trails.visitazores.com/sites/default/files/styles/slideshow-trails/public/dscn3372_0.jpg?itok=Et1tTuIL" width="450" height="295" alt="" /></div>  </div></div>
+</div>
+</div>
+</div>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-easy-social-easy-social-block-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="easy_social_box clearfix horizontal easy_social_lang_en">
+            <div class="easy_social-widget easy_social-widget-facebook first"><iframe src="//www.facebook.com/plugins/like.php?locale=en_US&amp;href=https%3A//trails.visitazores.com/en/trails-azores/sao-miguel/serra-devassa&amp;send=false&amp;layout=button_count&amp;width=88&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=&amp;height=21&amp;appId=" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:88px; height:21px;" allowTransparency="true"></iframe></div>
+          <div class="easy_social-widget easy_social-widget-googleplus last"><div class="g-plusone" data-size="medium" data-annotation="bubble" data-href="https://trails.visitazores.com/en/trails-azores/sao-miguel/serra-devassa"></div></div>
+  </div> <!-- /.easy_social_box -->  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-body"  >
+  
+        <h2 class="pane-title">
+      Trail Info    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Integrated in a Protected Area, this small circular route in Serra Devassa allows you to walk along volcanic cones and small lakes.</p>
+<p>This trail unfolds between an altitude of 750 to 900 meters, being advisable to walk in days of good visibility.</p>
+<p>Begin the walk in the parking place opposite the Forest Park of Mata do Canário. Go up the hill, around a swampy area and following right on the fork. All along the hill it is possible to see afar Pau Pique lake and the ruins of the aqueduct of Muro das Nove Janelas (connection place to the center of the village through the trail PR 04 SMI – Mata do Canário/Sete Cidades) that used to supply Ponta Delgada.</p>
+<p>Continue until the highest point, Pico das Éguas, with 873 metres, from where it is possible to see the Éguas lake on your left and Rasa ahead. From here the trail goes down until the lake shore, situated in a depression between several volcanic cones, passing by a cave and the water house.</p>
+<p>Go round the lake on your right and follow the detour on your right, crossing a wood of japanese cedar (<em>Cryptomeria japonica</em>) until reaching Empadadas lagoons. Along the way it is possible to see and listen to some birds such as common blackbird (<em>Turdus merula azorensis</em>), the common chaffinch (<em>Fringilla coelebs moreletti</em>) or the buzzard (<em>Buteo buteo rothschildi</em>).</p>
+<p>After the detour, return to the main road following right, going around Pico das Éguas, until the starting point.</p>
+</div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-azores-trails-altigraph"  >
+  
+        <h2 class="pane-title">
+      Outline    </h2>
+    
+  
+  <div class="pane-content">
+        <script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Km', 'Meters'],['0', 766],['0,5', 793],['1', 833],['1,5', 834],['2', 784],['2,5', 779],['3', 800],['3,5', 792],['4', 810],['4,5', 790],['4,9', 766]        ]);
+
+        var options = {
+          width: 430, height: 190,
+          legend:{position: 'none'},
+          hAxis:{title: 'Km', textPosition: 'out'},
+          vAxis:{title: 'Meters', textPosition: 'out'},
+          colors:['green']
+        };
+
+        var chart = new google.visualization.AreaChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+      }
+    </script>
+<div id="chart_div" style="width: 430px; height: 170px;"></div>
+  </div>
+
+  
+  </div>
+  </div>
+</div>
+  </div>
+</div>
+<div class="panels-flexible-column panels-flexible-column-2-6 panels-flexible-column-last ">
+  <div class="inside panels-flexible-column-inside panels-flexible-column-2-6-inside panels-flexible-column-inside-last">
+<div class="panels-flexible-region panels-flexible-region-2-right panels-flexible-region-first panels-flexible-region-last right-content">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-2-right-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-custom pane-1 pane-custom-title-trail-information"  >
+  
+      
+  
+  <div class="pane-content">
+    <h2>Trail Information</h2>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-category"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-category field-type-list-text field-label-hidden"><div class="field-items"><div class="field-item even">Category - Circular</div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-difficulty"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-difficulty field-type-list-text field-label-hidden"><div class="field-items"><div class="field-item even">Difficulty - Medium</div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-extension"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-extension field-type-number-float field-label-hidden"><div class="field-items"><div class="field-item even">Extension - 4.9 km</div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-time-average"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-time-average field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Time average - 2h00</div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-geo"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-geo field-type-geofield field-label-hidden"><div class="field-items"><div class="field-item even"><div style="height:170px; width:100%" id="geofield-map-entity-node-87-field-geo" class="geofieldMap"></div></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-rate-widget"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="rate-widget-1 rate-widget clear-block rate-average rate-widget-custom rate-9b412a9a5883ee8e82288c33f6dd5ba2 rate-node-87-1-1" id="rate-node-87-1-1"><div class="title_rating">Classification</div>
+<div class="item-list"><ul><li class="first"><a class="rate-button rate-btn rate-custom-btn-filled" id="rate-button-1" rel="nofollow" data-href="/en/trails-azores/sao-miguel/serra-devassa?rate=4wK1YC2uHtHpjwNE88a5i79Ikgw_iRdhqe2s2a7OptM" href="javascript:void(0)" title="1">1</a></li>
+<li><a class="rate-button rate-btn rate-custom-btn-filled" id="rate-button-2" rel="nofollow" data-href="/en/trails-azores/sao-miguel/serra-devassa?rate=KsQsbsdHsRUXv_EKewX4IgrlDIl1nKV2fKue4AcR06Y" href="javascript:void(0)" title="2">2</a></li>
+<li><a class="rate-button rate-btn rate-custom-btn-filled" id="rate-button-3" rel="nofollow" data-href="/en/trails-azores/sao-miguel/serra-devassa?rate=iYfeLeiv0CMU1nMao7nv6XMW0HPeYZUUQkSxlun4tG0" href="javascript:void(0)" title="3">3</a></li>
+<li><a class="rate-button rate-btn rate-custom-btn-filled" id="rate-button-4" rel="nofollow" data-href="/en/trails-azores/sao-miguel/serra-devassa?rate=1BtRqWEy3htXW0aKtiopMSINrn2R49ZZBkjZt2VpWd0" href="javascript:void(0)" title="4">4</a></li>
+<li class="last"><a class="rate-button rate-btn rate-custom-btn-empty" id="rate-button-5" rel="nofollow" data-href="/en/trails-azores/sao-miguel/serra-devassa?rate=osU476IE_4d4PQmo4zJVxoVYpuvQ9A3_3uTw_ueSjMg" href="javascript:void(0)" title="5">5</a></li>
+</ul></div><div class="discription_rating">Rate this Trail</div>
+<div class="total_votes">
+    Average rating: 3.78 / 5<br />
+  Number of ratings: 504</div>
+</div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-custom pane-2 pane-custom-title-downloads"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="title-arrow">Downloads</div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-gpx-file"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-gpx-file field-type-file field-label-hidden"><div class="field-items"><div class="field-item even"><span class="file"><img class="file-icon" alt="Binary Data" title="application/octet-stream" src="/modules/file/icons/application-octet-stream.png" /> <a href="https://trails.visitazores.com/sites/default/files/trails/sao-miguel/prc05-smi-2957.gpx" type="application/octet-stream; length=52124" title="prc05-smi-2957.gpx">GPS</a></span></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-kml-file"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-kml-file field-type-file field-label-hidden"><div class="field-items"><div class="field-item even"><span class="file"><img class="file-icon" alt="File" title="application/vnd.google-earth.kmz" src="/modules/file/icons/application-octet-stream.png" /> <a href="https://trails.visitazores.com/sites/default/files/trails/sao-miguel/prc05-smi-5144.kmz" type="application/vnd.google-earth.kmz; length=13430" title="prc05-smi-5144.kmz">Google Earth</a></span></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-map-file"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-map-file field-type-file field-label-hidden"><div class="field-items"><div class="field-item even"><span class="file"><img class="file-icon" alt="Image icon" title="image/jpeg" src="/modules/file/icons/image-x-generic.png" /> <a href="https://trails.visitazores.com/sites/default/files/trails/sao-miguel/prc05-smi-5221.jpg" type="image/jpeg; length=5406588" title="prc05-smi-5221.jpg">Map</a></span></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-downloads"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-downloads field-type-file field-label-hidden"><div class="field-items"><div class="field-item even"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="https://trails.visitazores.com/sites/default/files/prc_05_smi_-_serra_devassa_4.pdf" type="application/pdf; length=4094023" title="prc_05_smi_-_serra_devassa.pdf">Trail Leaflet</a></span></div></div></div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+  </div>
+</div>
+</div>
+</div>
+  </div>
+</div>
+  </div>
+  </div>
+              <!--     <div id="shadow-left"></div>
+    <div id="shadow-right"></div> -->
+    <!-- <div id="shadow-bottom"><img src="/sites/all/themes/trails/images/shadowbottom.png" alt="Shadow Bottom"></div> -->
+    </div>
+
+    <!-- <div id="shadow-bottom"></div> -->
+  </div> <!-- /.section, /#content -->
+
+          <div id="sidebar-second" class="column sidebar">
+        <div class="section clearfix">
+            <div class="region region-sidebar-second">
+    <div id="block-azores-trails-banneralerts" class="block block-azores-trails">
+
+    
+  <div class="content">
+    
+<div id="wrapper-banner-alerts">
+	<div id="wrapper-banner-alerts-icon" >	
+		<a href="/en/alerts">
+			<div id="link-banner-alerts">Alerts</div>
+		</a>
+	</div>
+</div>  </div>
+</div>
+<div id="block-maps-trails-maps-choose-an-island" class="block block-maps-trails">
+
+    
+  <div class="content">
+    <script type="text/javascript">
+(function ($) { 
+ $(document).ready(function () {
+    var languageContent="en";
+    var languageLink = {
+        "en": "trails-azores",
+        "pt-pt": "trilhos-dos-acores",
+        "de": "wanderwege-der-azoren",
+        "fr": "sentiers-des-acores",
+        "es": "senderos-de-las-azores",
+        "it": "sentieri-delle-azzorre",
+    };
+    var islandSelected="serra-devassa";
+    var xref = {
+        "santa-maria": ".smaria",
+        "sao-miguel": ".smiguel",
+        "flores": ".flores",
+        "corvo": ".corvo",
+        "graciosa": ".graciosa",
+        "faial": ".faial",
+        "pico": ".pico",
+        "terceira": ".terceira",
+        "sao-jorge": ".sjorge",
+        };
+    var image = $('#image_choose_an_island');
+    image.mapster(
+        {
+            fillOpacity: 0.5,
+            fillColor: "E4D32E",
+            stroke: true,
+            strokeColor: "E4D32E",
+            strokeOpacity: 0.5,
+            strokeWidth: 2.2,
+            singleSelect: true,
+            mapKey: 'name',
+            listKey: 'name',
+            isDeselectable: false,
+            configTimeout: 60000,
+            onMouseover: function (data) {
+                $("#block-maps-trails-maps-choose-an-island "+xref[data.key]).show();
+            },
+            onMouseout: function (data) {
+                $("#block-maps-trails-maps-choose-an-island "+xref[data.key]).hide();
+            },
+            onClick: function (data) {
+                window.location = Drupal.settings.basePath + languageContent + '/'+ languageLink[languageContent] + "/" + data["key"];
+            },
+            areas: [
+            {
+                key: islandSelected,
+                selected: true
+            },
+            ]
+        });
+    });
+   })(jQuery);
+</script>
+<div class="title-choose-an-island">Choose an Island</div>
+<img id="image_choose_an_island" src="/sites/all/modules/maps_trails/images/chooseanisland.png" usemap="#islandsmap">
+<map id="choose_an_island_map" name="islandsmap">
+    <area shape="poly" name="santa-maria" coords="211,142, 216,142, 216,138, 213,136, 212,133, 208,133, 207,134, 201,134, 200,135, 200,137, 201,138, 201,140, 202,141, 205,141, 207,140, 209,140, 211,142" href="#">
+    <area shape="poly" name="sao-miguel" coords="187,105, 186,105, 182,108, 175,107, 174,107, 169,107, 167,105, 166,103, 165,101, 160,97, 158,97, 156,98, 154,98, 153,100, 151,102, 151,104, 152,105, 151,107, 155,110, 156,110, 164,117, 171,118, 172,117, 175,117, 176,118, 180,118, 184,122, 186,121, 187,121, 199,121, 201,120, 204,119, 207,117, 212,118, 219,118, 221,114, 221,106, 220,103, 218,103, 204,102, 199,106, 198,106, 189,107, 187,106, 187,105" href="#">
+    <area shape="poly" name="terceira" coords="139,72, 143,72, 144,73, 145,73, 145,72, 149,72, 150,73, 156,73, 156,70, 157,70, 159,68, 159,66, 158,66, 158,64, 159,64, 155,59, 151,59, 150,58, 149,58, 148,57, 136,57, 132,61, 132,65, 133,67, 135,69, 137,70, 139,72" href="#">
+    <area shape="poly" name="graciosa" coords="104,50, 106,50, 107,51, 110,51, 110,49, 109,47, 108,46, 105,43, 102,43, 101,44, 101,46, 102,47, 103,49, 104,50" href="#">
+    <area shape="poly" name="corvo" coords="24,19, 26,19, 27,20, 27,24, 24,26, 23,26, 23,20, 24,19" href="#">
+    <area shape="poly" name="flores" coords="19,34, 20,35, 21,36, 23,36, 25,39, 25,41, 24,42, 24,45, 22,48, 16,48, 16,45, 15,44, 15,37, 17,34, 16,34, 16,33, 19,34" href="#">
+    <area shape="poly" name="faial" coords="57,88, 64,88, 67,85, 67,80, 65,79, 63,78, 60,76, 58,76, 56,78, 49,78, 50,81, 52,83, 54,84, 56,87, 57,88" href="#">
+    <area shape="poly" name="pico" coords="113,101, 111,98, 105,97, 102,96, 97,92, 93,92, 85,86, 77,86, 73,89, 73,94, 77,98, 79,99, 84,99, 85,100, 94,100, 95,102, 98,103, 100,101, 112,101" href="#">
+    <area shape="poly" name="sao-jorge" coords="121,83, 117,81, 102,72, 90,68, 80,63, 77,62, 82,67, 84,68, 87,71, 92,74, 93,75, 95,75, 100,78, 102,78, 108,81, 116,85, 120,85, 121,85, 121,83" href="#">
+</map>
+<div class="corvo island">Corvo</div>
+<div class="flores island">Flores</div>
+<div class="faial island">Faial</div>
+<div class="graciosa island">Graciosa</div>
+<div class="sjorge island">São Jorge</div>
+<div class="pico island">Pico</div>
+<div class="terceira island">Terceira</div>
+<div class="smiguel island">São Miguel</div>
+<div class="smaria island">Santa Maria</div>
+  </div>
+</div>
+<div id="block-views-exp-find-a-trail-page" class="block block-views">
+
+    
+  <div class="content">
+    <form action="/en/find-a-trail" method="get" id="views-exposed-form-find-a-trail-page" accept-charset="UTF-8"><div><script type="text/javascript">
+(function ($) { 
+  $(document).ready(function () {
+    $("#edit-reset").click(function(event){
+      event.preventDefault();
+      //By Island
+      $('#edit-field-island-nid').val("All");
+      $('#uniform-edit-field-island-nid span').text("By Island");
+      //By Theme
+      $('#edit-field-themes-tid').val("All");
+      $('#uniform-edit-field-themes-tid span').text("By Theme");
+      //By Difficulty
+      $('#edit-field-difficulty-value').val("All");
+      $('#uniform-edit-field-difficulty-value span').text("By Difficulty");
+      //By Extension
+      $('#edit-field-extension-value').val("All");
+      $('#uniform-edit-field-extension-value span').text("By Extension");
+      //By Category
+      $('#edit-field-category-value').val("All");
+      $('#uniform-edit-field-category-value span').text("By Category");
+    });
+  });
+})(jQuery);
+</script>
+<div class="title-find-a-trail">Find a trail</div>
+<div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-field-island-term-tid-wrapper" class="views-exposed-widget views-widget-filter-field_island_term_tid">
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-field-island-term-tid">
+ <select id="edit-field-island-term-tid" name="field_island_term_tid" class="form-select"><option value="All" selected="selected">By Island</option><option value="30">Santa Maria</option><option value="31">São Miguel</option><option value="32">Terceira</option><option value="33">Graciosa</option><option value="34">São Jorge</option><option value="35">Pico</option><option value="36">Faial</option><option value="37">Flores</option><option value="38">Corvo</option></select>
+</div>
+        </div>
+              </div>
+          <div id="edit-field-difficulty-value-wrapper" class="views-exposed-widget views-widget-filter-field_difficulty_value">
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-field-difficulty-value">
+ <select id="edit-field-difficulty-value" name="field_difficulty_value" class="form-select"><option value="All" selected="selected">By Difficulty</option><option value="1">Easy</option><option value="2">Medium</option><option value="3">Hard</option></select>
+</div>
+        </div>
+              </div>
+          <div id="edit-field-extension-value-wrapper" class="views-exposed-widget views-widget-filter-field_extension_value">
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-field-extension-value">
+ <select id="edit-field-extension-value" name="field_extension_value" class="form-select"><option value="All" selected="selected">By Extension</option><option value="1">0 - 5 Km</option><option value="2">5.1 - 10 Km</option><option value="3">10.1 - 30 Km</option><option value="4">&gt; 30 Km</option></select>
+</div>
+        </div>
+              </div>
+          <div id="edit-field-category-value-wrapper" class="views-exposed-widget views-widget-filter-field_category_value">
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-field-category-value">
+ <select id="edit-field-category-value" name="field_category_value" class="form-select"><option value="All" selected="selected">By Shape</option><option value="1">Circular</option><option value="2">Linear</option></select>
+</div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-find-a-trail" value="SEARCH" class="form-submit" />    </div>
+          <div class="views-exposed-widget views-reset-button">
+        <input type="submit" id="edit-reset" name="op" value="RESET" class="form-submit" />      </div>
+      </div>
+</div>
+</div></form>  </div>
+</div>
+<div id="block-views-banner-dynamic-block" class="block block-views">
+
+    
+  <div class="content">
+    <div class="view view-banner-dynamic view-id-banner_dynamic view-display-id-block view-dom-id-804fe606d8f06eb0ec8ecf41b41dcd3e">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="views_slideshow_cycle_main_banner_dynamic-block_1" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_banner_dynamic-block_1" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_banner_dynamic-block_1_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-first views-row-odd" >
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-odd views-row-first">
+    
+  <div class="views-field views-field-field-image-banner">        <div class="field-content"><a href="http://trails.visitazores.com/en/content/report-problem"><img typeof="foaf:Image" src="https://trails.visitazores.com/sites/default/files/EN_reporte_problema_0.jpg" width="217" height="61" alt="Trails Azores Report a Problem" title="Trails Azores Report a Problem" /></a></div>  </div></div>
+</div>
+</div>
+</div>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-views-banner-static-block" class="block block-views">
+
+    
+  <div class="content">
+    <div class="view view-banner-static view-id-banner_static view-display-id-block view-dom-id-2a541d4098b49be1828c944db7f6b154">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-image-banner">        <div class="field-content"><a href="https://itrails.visitazores.com/en" target="_blank"><img typeof="foaf:Image" src="https://trails.visitazores.com/sites/default/files/250x65_en_0.png" width="250" height="65" alt="" /></a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+                        <div class="region region-events">
+    <div id="block-bean-azores-trail-run" class="block block-bean">
+
+    
+  <div class="content">
+    <a href="https://www.azorestrailrun.com/" title="" target="_blank">
+  <img src="https://trails.visitazores.com/sites/default/files/styles/thumbnail_200x200_cropped/public/events/100521722_1393983697474955_7943610806443180032_n.png?itok=4_fKGZWP" alt="">
+</a>
+  <a href="https://www.facebook.com/azorestrailrun/" class="facebook" target="_blank"></a>
+  </div>
+</div>
+<div id="block-bean-azores-bravos-trail" class="block block-bean">
+
+    
+  <div class="content">
+    <a href="http://azoresbravostrail.com/" title="" target="_blank">
+  <img src="https://trails.visitazores.com/sites/default/files/styles/thumbnail_200x200_cropped/public/events/272159345_603045360746272_3211563166781468742_n.jpg?itok=6xRZbHr-" alt="">
+</a>
+  <a href="https://www.facebook.com/azoresbravostrail" class="facebook" target="_blank"></a>
+  </div>
+</div>
+<div id="block-bean-epic-trail-run-azores" class="block block-bean">
+
+    
+  <div class="content">
+    <a href="http://www.epictrailrunazores.com/pt/" title="" target="_blank">
+  <img src="https://trails.visitazores.com/sites/default/files/styles/thumbnail_200x200_cropped/public/events/283713051_5103612303026311_1339117390320643204_n.jpg?itok=60um3pYE" alt="">
+</a>
+  <a href="https://www.facebook.com/epictrailrunazores" class="facebook" target="_blank"></a>
+  </div>
+</div>
+<div id="block-bean-ecological-trail-run-azores" class="block block-bean">
+
+    
+  <div class="content">
+    <a href="https://www.ecologictrailrunazores.pt/" title="" target="_blank">
+  <img src="https://trails.visitazores.com/sites/default/files/styles/thumbnail_200x200_cropped/public/events/49344270_2154667937953361_6497111463767834624_o.png?itok=BbGVKbuI" alt="">
+</a>
+  <a href="https://www.facebook.com/Ecologic-Trail-Run-Azores-799571010129734/" class="facebook" target="_blank"></a>
+  </div>
+</div>
+  </div>
+                  </div>
+      </div> <!-- /.section, /#sidebar-second -->
+      </div> <!-- /#main -->
+  </div> <!-- /#main-wrapper -->
+  </div>
+<div id="footer-wrapper">
+      <div id="footer">
+    <div class="left">
+        <div id="footer-followus" class="footer-icon">
+          Follow us          <!-- <img src="/sites/all/themes/trails/images/followus.png" alt="Follow us"> -->
+        </div>
+        <div id="footer-facebook" class="footer-icon">
+            <a href="https://www.facebook.com/pages/Visit-Azores/159818184071534" target="_blank"></a>
+        </div>
+        <div id="footer-twitter" class="footer-icon">
+            <a href="https://twitter.com/visitingazores" target="_blank"></a>
+        </div>
+        <div id="footer-youtube" class="footer-icon">
+            <a href="https://www.youtube.com/user/TurismoAzores" target="_blank"></a>
+        </div>
+        <div id="footer-instagram" class="footer-icon">
+            <a href="https://instagram.com/visitazores" target="_blank"></a>
+        </div>
+        <div id="footer-shareyourphotos" class="footer-icon">
+          Share your photos        </div>
+    </div>
+    <div id="footer-azoresphotos" class="footer-icon">
+      <a href="http://azoresphotos.visitazores.com/site/index" target="_blank"></a>
+    </div>
+    <div class="right">
+      <span class="copyright">
+        © ATA 2025        <br>
+        Official Tourism Website of the Azores      </span>
+      <img width="320" src="/sites/all/themes/trails/images/proconvergencia.png" class="pro-convergencia" alt="ProConvergência">
+      <a href="http://www.azores.gov.pt" target="_blank">
+        <img width="40" src="/sites/all/themes/trails/images/azoresgov.png" alt="Azores Government">
+      </a>
+    </div>
+  </div>
+</div>
+</div> <!-- /#page, /#page-wrapper -->
+  
+  <!-- Cookie Consent plugin configuration -->
+  <script type="module" src="https://trails.visitazores.com/sites/all/themes/trails/libs_custom/cookieconsent/cookieconsent-config.js"></script>
+</body>
+</html>

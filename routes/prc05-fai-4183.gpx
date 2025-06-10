@@ -1,0 +1,4374 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2018-07-04T15:59:41Z</time>
+    <bounds maxlat="38.537104306742549" maxlon="-28.71577363461256" minlat="38.518264135345817" minlon="-28.750531626865268" />
+  </metadata>
+
+  <wpt lat="38.520407974720001" lon="-28.71577363461256">
+    <ele>0</ele>
+    <time>2018-07-04T15:58:53Z</time>
+    <name>Aeoporto</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Aeoporto&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tema&lt;/td&gt;
+
+&lt;td&gt;Aeoporto&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC05FAI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Nome&lt;/td&gt;
+
+&lt;td&gt;Aeroporto da Horta&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;Faial&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;Horta&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Coord_X&lt;/td&gt;
+
+&lt;td&gt;350425,342160987&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Coord_Y&lt;/td&gt;
+
+&lt;td&gt;4264952,95271882&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Aeoporto&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tema&lt;/td&gt;
+
+&lt;td&gt;Aeoporto&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC05FAI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Nome&lt;/td&gt;
+
+&lt;td&gt;Aeroporto da Horta&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;Faial&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;Horta&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Coord_X&lt;/td&gt;
+
+&lt;td&gt;350425,342160987&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Coord_Y&lt;/td&gt;
+
+&lt;td&gt;4264952,95271882&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-07-04T15:58:53Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.537013530731201" lon="-28.742616176605225">
+    <ele>0</ele>
+    <time>2018-07-04T15:58:53Z</time>
+    <name>Bus11</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Bus&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tema&lt;/td&gt;
+
+&lt;td&gt;Bus&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC05FAI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Nome&lt;/td&gt;
+
+&lt;td&gt;Lombega - Bico Doce (Horta - Ribeira Funda (Sul);Ribeira Funda - Horta (Sul))&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;Faial&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;Horta&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Coord_X&lt;/td&gt;
+
+&lt;td&gt;348120,074248687&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Coord_Y&lt;/td&gt;
+
+&lt;td&gt;4266839,73681708&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Bus&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tema&lt;/td&gt;
+
+&lt;td&gt;Bus&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC05FAI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Nome&lt;/td&gt;
+
+&lt;td&gt;Lombega - Bico Doce (Horta - Ribeira Funda (Sul);Ribeira Funda - Horta (Sul))&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;Faial&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;Horta&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Coord_X&lt;/td&gt;
+
+&lt;td&gt;348120,074248687&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Coord_Y&lt;/td&gt;
+
+&lt;td&gt;4266839,73681708&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-07-04T15:58:53Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.534610271453857" lon="-28.73898983001709">
+    <ele>0</ele>
+    <time>2018-07-04T15:58:53Z</time>
+    <name>Bus9</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Bus&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tema&lt;/td&gt;
+
+&lt;td&gt;Bus&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC05FAI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Nome&lt;/td&gt;
+
+&lt;td&gt;Lombega - Posto Do Leite (Horta - Ribeira Funda (Sul);Ribeira Funda - Horta (Sul))&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;Faial&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;Horta&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Coord_X&lt;/td&gt;
+
+&lt;td&gt;348431,110553411&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Coord_Y&lt;/td&gt;
+
+&lt;td&gt;4266567,0529737&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Bus&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tema&lt;/td&gt;
+
+&lt;td&gt;Bus&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC05FAI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Nome&lt;/td&gt;
+
+&lt;td&gt;Lombega - Posto Do Leite (Horta - Ribeira Funda (Sul);Ribeira Funda - Horta (Sul))&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;Faial&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;Horta&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Coord_X&lt;/td&gt;
+
+&lt;td&gt;348431,110553411&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Coord_Y&lt;/td&gt;
+
+&lt;td&gt;4266567,0529737&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-07-04T15:58:53Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.523860312998295" lon="-28.750531626865268">
+    <ele>0</ele>
+    <time>2018-07-04T15:58:53Z</time>
+    <name>Geossítio</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Geossítio&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tema&lt;/td&gt;
+
+&lt;td&gt;Geossítio&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC05FAI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Nome&lt;/td&gt;
+
+&lt;td&gt;Morro do Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;Faial&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;Horta&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Coord_X&lt;/td&gt;
+
+&lt;td&gt;347402,355576698&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Coord_Y&lt;/td&gt;
+
+&lt;td&gt;4265393,17608775&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Geossítio&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tema&lt;/td&gt;
+
+&lt;td&gt;Geossítio&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC05FAI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Nome&lt;/td&gt;
+
+&lt;td&gt;Morro do Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;Faial&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;Horta&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Coord_X&lt;/td&gt;
+
+&lt;td&gt;347402,355576698&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Coord_Y&lt;/td&gt;
+
+&lt;td&gt;4265393,17608775&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-07-04T15:58:53Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.536558896303177" lon="-28.742186184972525">
+    <ele>0</ele>
+    <time>2018-07-04T15:58:53Z</time>
+    <name>Mercado/Mercearia1</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Mercado/Mercearia&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tema&lt;/td&gt;
+
+&lt;td&gt;Mercado/Mercearia&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC05FAI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Nome&lt;/td&gt;
+
+&lt;td&gt;Bico Doce&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;Faial&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;Horta&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Coord_X&lt;/td&gt;
+
+&lt;td&gt;348156,595934719&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Coord_Y&lt;/td&gt;
+
+&lt;td&gt;4266788,5733607&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Mercado/Mercearia&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tema&lt;/td&gt;
+
+&lt;td&gt;Mercado/Mercearia&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC05FAI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Nome&lt;/td&gt;
+
+&lt;td&gt;Bico Doce&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;Faial&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;Horta&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Coord_X&lt;/td&gt;
+
+&lt;td&gt;348156,595934719&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Coord_Y&lt;/td&gt;
+
+&lt;td&gt;4266788,5733607&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-07-04T15:58:53Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.529669977724552" lon="-28.748429026454687">
+    <ele>0</ele>
+    <time>2018-07-04T15:58:53Z</time>
+    <name>Miradouro24</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Miradouro&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tema&lt;/td&gt;
+
+&lt;td&gt;Miradouro&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC05FAI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Nome&lt;/td&gt;
+
+&lt;td&gt;Miradouro do Morro do Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;Faial&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;Horta&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Coord_X&lt;/td&gt;
+
+&lt;td&gt;347597,911706216&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Coord_Y&lt;/td&gt;
+
+&lt;td&gt;4266034,41096244&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Miradouro&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tema&lt;/td&gt;
+
+&lt;td&gt;Miradouro&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC05FAI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Nome&lt;/td&gt;
+
+&lt;td&gt;Miradouro do Morro do Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;Faial&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;Horta&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Coord_X&lt;/td&gt;
+
+&lt;td&gt;347597,911706216&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Coord_Y&lt;/td&gt;
+
+&lt;td&gt;4266034,41096244&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-07-04T15:58:53Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.523830892518163" lon="-28.72482935898006">
+    <ele>56.978111267089837</ele>
+    <time>2018-07-04T15:58:53Z</time>
+    <name>Restauração5</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Restauração&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tema&lt;/td&gt;
+
+&lt;td&gt;Restauração&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC05FAI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Nome&lt;/td&gt;
+
+&lt;td&gt;Restaurante&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;Faial&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;Horta&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Coord_X&lt;/td&gt;
+
+&lt;td&gt;349642,968&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Coord_Y&lt;/td&gt;
+
+&lt;td&gt;4265347,5794&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Restauração&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tema&lt;/td&gt;
+
+&lt;td&gt;Restauração&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC05FAI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Nome&lt;/td&gt;
+
+&lt;td&gt;Restaurante&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;Faial&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;Horta&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Coord_X&lt;/td&gt;
+
+&lt;td&gt;349642,968&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Coord_Y&lt;/td&gt;
+
+&lt;td&gt;4265347,5794&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-07-04T15:58:53Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.523747408762574" lon="-28.729371596127748">
+    <ele>70.891159057617188</ele>
+    <time>2018-07-04T15:58:53Z</time>
+    <name>Turismo Rural3</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Turismo Rural&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tema&lt;/td&gt;
+
+&lt;td&gt;Turismo Rural&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC05FAI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Nome&lt;/td&gt;
+
+&lt;td&gt;Turismo Rural&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;Faial&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;Horta&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Coord_X&lt;/td&gt;
+
+&lt;td&gt;349246,8108&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Coord_Y&lt;/td&gt;
+
+&lt;td&gt;4265345,7521&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Turismo Rural&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tema&lt;/td&gt;
+
+&lt;td&gt;Turismo Rural&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC05FAI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Nome&lt;/td&gt;
+
+&lt;td&gt;Turismo Rural&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;Faial&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;Horta&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Coord_X&lt;/td&gt;
+
+&lt;td&gt;349246,8108&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Coord_Y&lt;/td&gt;
+
+&lt;td&gt;4265345,7521&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-07-04T15:58:53Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.535241428762674" lon="-28.741528457030654">
+    <ele>0</ele>
+    <time>2018-07-04T15:58:53Z</time>
+    <name>Você Está Aqui6</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Você Está Aqui&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tema&lt;/td&gt;
+
+&lt;td&gt;Você Está Aqui&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC05FAI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Nome&lt;/td&gt;
+
+&lt;td&gt;Inicio de Percurso&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;Faial&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;Horta&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Coord_X&lt;/td&gt;
+
+&lt;td&gt;348211,160000002&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Coord_Y&lt;/td&gt;
+
+&lt;td&gt;4266641,28&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Você Está Aqui&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tema&lt;/td&gt;
+
+&lt;td&gt;Você Está Aqui&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC05FAI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Nome&lt;/td&gt;
+
+&lt;td&gt;Inicio de Percurso&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;Faial&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;Horta&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Coord_X&lt;/td&gt;
+
+&lt;td&gt;348211,160000002&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Coord_Y&lt;/td&gt;
+
+&lt;td&gt;4266641,28&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-07-04T15:58:53Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.518264135345817" lon="-28.723630830645561">
+    <ele>0</ele>
+    <time>2018-07-04T15:58:53Z</time>
+    <name>Zona Balnear4</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Zona Balnear&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tema&lt;/td&gt;
+
+&lt;td&gt;Zona Balnear&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC05FAI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Nome&lt;/td&gt;
+
+&lt;td&gt;Zona Balnear de Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;Faial&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;Horta&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Coord_X&lt;/td&gt;
+
+&lt;td&gt;349735,88071262&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Coord_Y&lt;/td&gt;
+
+&lt;td&gt;4264727,8579978&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Zona Balnear&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tema&lt;/td&gt;
+
+&lt;td&gt;Zona Balnear&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC05FAI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Nome&lt;/td&gt;
+
+&lt;td&gt;Zona Balnear de Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;Faial&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;Horta&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Coord_X&lt;/td&gt;
+
+&lt;td&gt;349735,88071262&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Coord_Y&lt;/td&gt;
+
+&lt;td&gt;4264727,8579978&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-07-04T15:58:53Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <trk>
+    <name>PRC05FAI</name>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Percursos Pedestres&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;FID&lt;/td&gt;
+
+&lt;td&gt;2&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;Percursos Pedestres&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;COD_PERCUR&lt;/td&gt;
+
+&lt;td&gt;PRC05FAI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;TEMPO&lt;/td&gt;
+
+&lt;td&gt;1h30m&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;DIFICULDAD&lt;/td&gt;
+
+&lt;td&gt;Fácil&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;FONTE&lt;/td&gt;
+
+&lt;td&gt;Direção Regional do Turismo&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;FREGUESIA&lt;/td&gt;
+
+&lt;td&gt;Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CONCELHO&lt;/td&gt;
+
+&lt;td&gt;Horta&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Shape_Leng&lt;/td&gt;
+
+&lt;td&gt;3,7&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CATEGORIA&lt;/td&gt;
+
+&lt;td&gt;Circular&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;beginLifeS&lt;/td&gt;
+
+&lt;td&gt;18/08/2017&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;SITUACAO&lt;/td&gt;
+
+&lt;td&gt;Aberto&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Areas_Prot&lt;/td&gt;
+
+&lt;td&gt;Sim&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Nome&lt;/td&gt;
+
+&lt;td&gt;Morro do Castelo Branco&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;GRAU_DE_PE&lt;/td&gt;
+
+&lt;td&gt;Familiar&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;ENTIDADE_P&lt;/td&gt;
+
+&lt;td&gt;Direção Regional do Ambiente&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;RESPONSABE&lt;/td&gt;
+
+&lt;td&gt;Direção Regional do Ambiente&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;ILHA&lt;/td&gt;
+
+&lt;td&gt;Faial&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;CONSERVAÇ&lt;/td&gt;
+
+&lt;td&gt;Bom&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CONCERVAÇ&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;CONSERVA_1&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CONSERVACA&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>DarkGray</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="38.535241428762674" lon="-28.741528457030654">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535580476745963" lon="-28.74178578145802">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535591289401054" lon="-28.741793995723128">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535666391253471" lon="-28.741851495578885">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535705702379346" lon="-28.741888124495745">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535737469792366" lon="-28.741921400651336">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535783402621746" lon="-28.741980995982885">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535895301029086" lon="-28.742114854976535">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536007031798363" lon="-28.742248713970184">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536132844164968" lon="-28.74237553216517">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536283215507865" lon="-28.742476617917418">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536369297653437" lon="-28.742511570453644">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536415146663785" lon="-28.742524897679687">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53652779944241" lon="-28.742553815245628">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536662580445409" lon="-28.742558676749468">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536663250997663" lon="-28.742559431120753">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536896351724863" lon="-28.742570243775845">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.537055188789964" lon="-28.742577536031604">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.537055188789964" lon="-28.742582313716412">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.537052841857076" lon="-28.742677280679345">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.537078658118844" lon="-28.742866041138768">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.537091985344887" lon="-28.742963774129748">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53710388764739" lon="-28.743075504899025">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.537104306742549" lon="-28.743111547082663">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.537090392783284" lon="-28.743338277563453">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.537082010880113" lon="-28.74339041300118">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.537069354206324" lon="-28.743452606722713">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.537049572914839" lon="-28.743511028587818">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53702032007277" lon="-28.743700124323368">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.537016296759248" lon="-28.743730885908008">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.537010932341218" lon="-28.743827780708671">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.537035407498479" lon="-28.744101114571095">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.537036664783955" lon="-28.744355672970414">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.537036664783955" lon="-28.744362043216825">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.537034401670098" lon="-28.744372269138694">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.537030462175608" lon="-28.744390206411481">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53692258708179" lon="-28.744678208604455">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536878414452076" lon="-28.744761692360044">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536859890446067" lon="-28.744784323498607">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536706333979964" lon="-28.745005605742335">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536578929051757" lon="-28.745254883542657">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536488488316536" lon="-28.745357813313603">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536487566307187" lon="-28.745359908789396">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536480274051428" lon="-28.745377762243152">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536409363150597" lon="-28.745464766398072">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536358820274472" lon="-28.745529223233461">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536350606009364" lon="-28.745538108050823">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536343984305859" lon="-28.745548166334629">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536323783919215" lon="-28.745573982596397">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536319760605693" lon="-28.745585214346647">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536313725635409" lon="-28.745594518259168">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536228062584996" lon="-28.745741285383701">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53617500513792" lon="-28.745832145214081">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536086576059461" lon="-28.745964495465159">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.536077439785004" lon="-28.74597673304379">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535927068442106" lon="-28.746202373877168">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535836962983012" lon="-28.746322654187679">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53576353751123" lon="-28.746420638635755">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535740152001381" lon="-28.746439246460795">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535631354898214" lon="-28.746566735208035">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535573435947299" lon="-28.746634628623724">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535563377663493" lon="-28.746663965284824">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535518366843462" lon="-28.746778294444084">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535473942756653" lon="-28.746861778199673">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535393895581365" lon="-28.746966049075127">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535362463444471" lon="-28.747006952762604">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535346118733287" lon="-28.747028158977628">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535330947488546" lon="-28.747045174241066">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535297755151987" lon="-28.747053723782301">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535275962203741" lon="-28.747077528387308">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535196082666516" lon="-28.74715480953455">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53517085313797" lon="-28.747165957465768">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535111928358674" lon="-28.747184984385967">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534985110163689" lon="-28.747226055711508">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534938674420118" lon="-28.747241059318185">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534859549254179" lon="-28.747284561395645">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534792074933648" lon="-28.747321609407663">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534716973081231" lon="-28.747362932190299">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534675985574722" lon="-28.747392687946558">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534637512639165" lon="-28.747420683503151">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534567942842841" lon="-28.747471226379275">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534550508484244" lon="-28.747491678223014">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534515891224146" lon="-28.747539035975933">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534501306712627" lon="-28.747567031532526">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53448873385787" lon="-28.747597457841039">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534479262307286" lon="-28.747631404548883">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534419164061546" lon="-28.747910019010305">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534394521266222" lon="-28.748026778921485">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534387815743685" lon="-28.748094169422984">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534383457154036" lon="-28.748137755319476">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534381948411465" lon="-28.748152507469058">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534376751631498" lon="-28.748208498582244">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534382116049528" lon="-28.748222831636667">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534381110221148" lon="-28.748289719223976">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534377086907625" lon="-28.748293910175562">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534335596486926" lon="-28.748337579891086">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534317072480917" lon="-28.748357025906444">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534308020025492" lon="-28.748356774449348">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534236857667565" lon="-28.748382087796926">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534217495471239" lon="-28.748389044776559">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534212382510304" lon="-28.748388877138495">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53419947437942" lon="-28.748388541862369">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534190421923995" lon="-28.748389463871717">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534151865169406" lon="-28.74839348718524">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534105094149709" lon="-28.748398264870048">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534053713083267" lon="-28.748403545469046">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533970061689615" lon="-28.748412178829312">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53392873890698" lon="-28.74841645359993">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53392873890698" lon="-28.74841645359993">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533811056986451" lon="-28.748447969555855">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533806866034865" lon="-28.748447634279728">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533793203532696" lon="-28.748436151072383">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533767051994801" lon="-28.748435480520129">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533631097525358" lon="-28.748432211577892">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53362531401217" lon="-28.748439336195588">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533603521063924" lon="-28.748465906828642">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533557839691639" lon="-28.748510666191578">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533546356484294" lon="-28.748523406684399">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533473266288638" lon="-28.748604459688067">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533419286832213" lon="-28.748664222657681">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53339858353138" lon="-28.748687189072371">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53336539119482" lon="-28.748723985627294">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533320212736726" lon="-28.748779390007257">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533295402303338" lon="-28.748809900134802">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533264473080635" lon="-28.748847786337137">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53325642645359" lon="-28.748856671154499">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533236477524042" lon="-28.748878631740808">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533215103670955" lon="-28.748902184888721">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533203871920705" lon="-28.748914590105414">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533174702897668" lon="-28.748946776613593">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53317285887897" lon="-28.748948788270354">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533157855272293" lon="-28.748985165730119">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53315039537847" lon="-28.749003270640969">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533143689855933" lon="-28.749019531533122">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533135391771793" lon="-28.749039648100734">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.5331264231354" lon="-28.74903948046267">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533118376508355" lon="-28.74903604388237">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533104127272964" lon="-28.749029841274023">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533062804490328" lon="-28.749011987820268">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533032294362783" lon="-28.748998828232288">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533016704022884" lon="-28.748992122709751">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532977728173137" lon="-28.748975275084376">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532977644354105" lon="-28.748975191265345">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532929448410869" lon="-28.748954404145479">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532903548330069" lon="-28.748949039727449">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53289432823658" lon="-28.74894711188972">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532892484217882" lon="-28.748946776613593">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532866584137082" lon="-28.748941412195563">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532866584137082" lon="-28.748941412195563">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532843282446265" lon="-28.748940825462341">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532713446766138" lon="-28.748937724158168">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532661143690348" lon="-28.748936466872692">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532621832564473" lon="-28.748935461044312">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532544299960136" lon="-28.748933617025614">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532542288303375" lon="-28.748933533206582">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532537762075663" lon="-28.748935125768185">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532531056553125" lon="-28.748937472701073">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532520579174161" lon="-28.748941076919436">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532512867823243" lon="-28.748943759128451">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532508173957467" lon="-28.748945435509086">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.5324667673558" lon="-28.748959852382541">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532405160367489" lon="-28.74898131005466">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532405076548457" lon="-28.74898131005466">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532401137053967" lon="-28.748982734978199">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532396191731095" lon="-28.748984411358833">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532388312742114" lon="-28.74898717738688">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532388312742114" lon="-28.74898717738688">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532379260286689" lon="-28.748986925929785">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532371548935771" lon="-28.748976700007915">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532370459288359" lon="-28.748975275084376">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532334081828594" lon="-28.748974436894059">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532334081828594" lon="-28.748974436894059">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532333830371499" lon="-28.748974353075027">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532333830371499" lon="-28.748974353075027">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532282365486026" lon="-28.748973179608583">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532260656356812" lon="-28.748972592875361">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532197708263993" lon="-28.748971084132791">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532172227278352" lon="-28.748970497399569">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532147835940123" lon="-28.74896764755249">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532122857868671" lon="-28.748964797705412">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532084636390209" lon="-28.748960355296731">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532079188153148" lon="-28.748959768563509">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53207684122026" lon="-28.748959433287382">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532046331092715" lon="-28.74895591288805">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532018754631281" lon="-28.748989691957831">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53197374381125" lon="-28.748988602310419">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53189604356885" lon="-28.749032858759165">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531876681372523" lon="-28.749043922871351">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531829575076699" lon="-28.7490707449615">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531825887039304" lon="-28.749072840437293">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531819265335798" lon="-28.74907661229372">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531803423538804" lon="-28.749081222340465">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531781211495399" lon="-28.749087760224938">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531755479052663" lon="-28.749095303937793">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531746845692396" lon="-28.749097818508744">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531719101592898" lon="-28.749097147956491">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531690519303083" lon="-28.749096477404237">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531656740233302" lon="-28.74909563921392">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53163855150342" lon="-28.749106703326106">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531623799353838" lon="-28.74909421429038">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531591277569532" lon="-28.74906680546701">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531540650874376" lon="-28.749023973941803">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531540650874376" lon="-28.749023973941803">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531492035835981" lon="-28.749008467420936">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531467728316784" lon="-28.749000672250986">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53142405860126" lon="-28.748986758291721">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531377874314785" lon="-28.748993463814259">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531288607046008" lon="-28.749006455764174">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531288607046008" lon="-28.749006455764174">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531244350597262" lon="-28.749012826010585">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531201435253024" lon="-28.749019112437963">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531153155490756" lon="-28.749026069417596">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53107905946672" lon="-28.749030595645308">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531017871573567" lon="-28.749034283682704">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53098233230412" lon="-28.748998995870352">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53098233230412" lon="-28.748998995870352">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530965652316809" lon="-28.748984159901738">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530929023399949" lon="-28.748951805755496">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530870517715812" lon="-28.748925486579537">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530848473310471" lon="-28.748915512114763">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530823159962893" lon="-28.748912159353495">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530806731432676" lon="-28.748910063877702">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530740514397621" lon="-28.748901430517435">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530703969299793" lon="-28.74888064339757">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53064127266407" lon="-28.748845104128122">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530620401725173" lon="-28.748833201825619">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530601374804974" lon="-28.748822472989559">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530583269894123" lon="-28.748812163248658">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530583186075091" lon="-28.748812163248658">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53055720217526" lon="-28.748797327280045">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530508168041706" lon="-28.748769583180547">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53050397709012" lon="-28.748763967305422">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53049173951149" lon="-28.748747790232301">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530485117807984" lon="-28.748738989233971">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530481681227684" lon="-28.74873454682529">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530455026775599" lon="-28.748710909858346">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530429126694798" lon="-28.748703114688396">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530404651537538" lon="-28.748695654794574">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530399287119508" lon="-28.748694062232971">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530264338478446" lon="-28.748653326183558">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530248664319515" lon="-28.74864854849875">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530234666541219" lon="-28.748648213222623">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530069207772613" lon="-28.748644189909101">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530032495036721" lon="-28.748643351718783">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530001314356923" lon="-28.748631197959185">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529969798400998" lon="-28.748618876561522">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529915902763605" lon="-28.748606136068702">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529908191412687" lon="-28.748595910146832">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529898216947913" lon="-28.748582750558853">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.52988924831152" lon="-28.748582499101758">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529862342402339" lon="-28.748570429161191">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529861504212022" lon="-28.748571434989572">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529854379594326" lon="-28.748580235987902">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529853206127882" lon="-28.748581660911441">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529842644929886" lon="-28.748569674789906">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529791180044413" lon="-28.7485112529248">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529754718765616" lon="-28.748471103608608">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529737954959273" lon="-28.748452663421631">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529736110940576" lon="-28.748450232669711">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529719933867455" lon="-28.748428858816624">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529670145362616" lon="-28.748362977057695">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529641143977642" lon="-28.74832458794117">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529633600264788" lon="-28.748314613476396">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529631923884153" lon="-28.748312434181571">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529623374342918" lon="-28.748293491080403">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529617926105857" lon="-28.748281337320805">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529613651335239" lon="-28.748271781951189">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529613567516208" lon="-28.748271781951189">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529590014368296" lon="-28.748219478875399">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529579620808363" lon="-28.748196428641677">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529576184228063" lon="-28.74818779528141">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529570987448096" lon="-28.748174635693431">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529564533382654" lon="-28.748158207163215">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529541064053774" lon="-28.748098779469728">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529536789283156" lon="-28.748087966814637">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529532765969634" lon="-28.748077740892768">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529498148709536" lon="-28.747989982366562">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529492784291506" lon="-28.747976403683424">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.52946805767715" lon="-28.74792393296957">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529464034363627" lon="-28.747915215790272">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529460597783327" lon="-28.747908007353544">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.52945196442306" lon="-28.747889483347535">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529451629146934" lon="-28.747888896614313">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529449114575982" lon="-28.747883532196283">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529429081827402" lon="-28.747862661257386">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529413407668471" lon="-28.74784623272717">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529410054907203" lon="-28.74784279614687">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529366888105869" lon="-28.747797617688775">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529361272230744" lon="-28.747791750356555">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529303185641766" lon="-28.747731065377593">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529301341623068" lon="-28.747729221358895">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529287008568645" lon="-28.747714217752218">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529287008568645" lon="-28.747714133933187">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529280554503202" lon="-28.747707428410649">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529280554503202" lon="-28.747707428410649">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529245685786009" lon="-28.747669709846377">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529243087396026" lon="-28.747666859999299">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529233783483505" lon="-28.747656801715493">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529178127646446" lon="-28.74759653583169">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529166392982006" lon="-28.747583879157901">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529123393818736" lon="-28.747537275776267">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529085423797369" lon="-28.747496204450727">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529082406312227" lon="-28.74749444425106">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529082406312227" lon="-28.74749444425106">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528879983350635" lon="-28.747376510873437">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528833715245128" lon="-28.747345665469766">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528833715245128" lon="-28.747345665469766">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.52881477214396" lon="-28.747333008795977">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528807647526264" lon="-28.747328314930201">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528703460469842" lon="-28.747258745133877">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528703460469842" lon="-28.747258745133877">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528701532632113" lon="-28.747257487848401">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528666831552982" lon="-28.747226810082793">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528604805469513" lon="-28.74717190861702">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528583263978362" lon="-28.747152965515852">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528566248714924" lon="-28.747137878090143">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528554430231452" lon="-28.747127400711179">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528537079691887" lon="-28.747112061828375">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528514783829451" lon="-28.747092364355922">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528471449390054" lon="-28.746976610273123">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528440184891224" lon="-28.74696621671319">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528413530439138" lon="-28.74695741571486">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.52838721126318" lon="-28.746948698535562">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528361059725285" lon="-28.746940065175295">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528333650901914" lon="-28.746930928900838">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528333650901914" lon="-28.746930928900838">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528275899589062" lon="-28.746911818161607">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.52827581577003" lon="-28.746911818161607">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528247233480215" lon="-28.746902346611023">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528224434703588" lon="-28.746874183416367">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528218735009432" lon="-28.746867142617702">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528187889605761" lon="-28.746829004958272">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528159894049168" lon="-28.746794471517205">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.52814975194633" lon="-28.746781898662448">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528118152171373" lon="-28.7467429228127">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.52811454795301" lon="-28.746738480404019">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528054701164365" lon="-28.746669245883822">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528004242107272" lon="-28.746610907837749">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527977168560028" lon="-28.746579559519887">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527972809970379" lon="-28.746574530377984">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527967948466539" lon="-28.746570171788335">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527946155518293" lon="-28.74655089341104">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.52792838588357" lon="-28.746532453224063">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527896283194423" lon="-28.74649909324944">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527895696461201" lon="-28.74649859033525">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527875076979399" lon="-28.746480401605368">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527797209098935" lon="-28.746441341936588">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527794275432825" lon="-28.74647269025445">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527784049510956" lon="-28.746499847620726">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527783798053861" lon="-28.746500601992011">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527769381180406" lon="-28.746527843177319">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527751443907619" lon="-28.746554916724563">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527646670117974" lon="-28.746677460148931">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527640383690596" lon="-28.746680226176977">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527619764208794" lon="-28.746689613908529">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527450617402792" lon="-28.746766475960612">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527388088405132" lon="-28.746782317757607">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527317177504301" lon="-28.746794806793332">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527296809479594" lon="-28.746798411011696">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527293624356389" lon="-28.746798997744918">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527215672656894" lon="-28.746797069907188">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527128165587783" lon="-28.746794974431396">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527065385133028" lon="-28.746793465688825">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526960276067257" lon="-28.746790951117873">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526929598301649" lon="-28.746790196746588">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526881067082286" lon="-28.746789023280144">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526780484244227" lon="-28.746763626113534">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526745950803161" lon="-28.746746191754937">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526637405157089" lon="-28.746691374108195">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526619216427207" lon="-28.74670235440135">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526591388508677" lon="-28.746689278632402">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526560040190816" lon="-28.746674526482821">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526426432654262" lon="-28.746611746028066">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526413440704346" lon="-28.74660562723875">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526371195912361" lon="-28.746602274477482">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526370273903012" lon="-28.746601855382323">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526340769603848" lon="-28.746594898402691">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526267679408193" lon="-28.746594060212374">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526265919208527" lon="-28.74659389257431">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526264410465956" lon="-28.746593808755279">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526206407696009" lon="-28.746589114889503">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526172963902354" lon="-28.74659288674593">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526125019416213" lon="-28.746592300012708">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526033908128738" lon="-28.746592383831739">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525922344997525" lon="-28.746592383831739">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525740876793861" lon="-28.746632030233741">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525552116334438" lon="-28.74675415456295">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525458155199885" lon="-28.746794303879142">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525457484647632" lon="-28.746794639155269">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525367295369506" lon="-28.746833195909858">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525226227939129" lon="-28.746841410174966">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525160010904074" lon="-28.746845349669456">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525151293724775" lon="-28.746847026050091">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525094296783209" lon="-28.746837554499507">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525066636502743" lon="-28.74685431830585">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525022128596902" lon="-28.746847277507186">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524962114170194" lon="-28.74688365496695">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524950966238976" lon="-28.746885834261775">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524933867156506" lon="-28.74690075404942">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524931184947491" lon="-28.746902430430055">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524888521060348" lon="-28.74694811180234">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.52486907504499" lon="-28.746969066560268">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524862453341484" lon="-28.746976023539901">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524857927113771" lon="-28.746980968862772">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524853652343154" lon="-28.747002510353923">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524845521897078" lon="-28.747043833136559">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524759858846664" lon="-28.747326135635376">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524758769199252" lon="-28.747329823672771">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.52475474588573" lon="-28.747341893613338">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524754326790571" lon="-28.7473439052701">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524753823876381" lon="-28.747346000745893">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524728342890739" lon="-28.747430071234703">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524715770035982" lon="-28.747461922466755">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524694228544831" lon="-28.747524451464415">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524670759215951" lon="-28.74756527133286">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524610241875052" lon="-28.747670631855726">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524599596858025" lon="-28.747689155861735">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524594902992249" lon="-28.747697286307812">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.5245490539819" lon="-28.747781272977591">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524539330974221" lon="-28.747799210250378">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524537570774555" lon="-28.747800551354885">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.52451192215085" lon="-28.747821422293782">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524474706500769" lon="-28.747872300446033">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524473197758198" lon="-28.747873473912477">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524420978501439" lon="-28.747913790866733">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524382840842009" lon="-28.74793466180563">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524381332099438" lon="-28.747935499995947">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524375883862376" lon="-28.747938433662057">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524374794214964" lon="-28.747942540794611">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524355851113796" lon="-28.748012697324157">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524355599656701" lon="-28.748013870790601">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524342272430658" lon="-28.748061563819647">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524329280480742" lon="-28.748101126402617">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524342272430658" lon="-28.748061563819647">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524356437847018" lon="-28.748018397018313">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524378649890423" lon="-28.747951090335846">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524379739537835" lon="-28.747947737574577">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524380493909121" lon="-28.747945390641689">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524380661547184" lon="-28.747944803908467">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524420978501439" lon="-28.747913790866733">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524473197758198" lon="-28.747873473912477">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.52450312115252" lon="-28.747809771448374">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.52452608756721" lon="-28.747776243835688">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524541594088078" lon="-28.747753612697124">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524585263803601" lon="-28.747689994052052">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524603536352515" lon="-28.747663255780935">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524641338735819" lon="-28.747608102858067">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524670759215951" lon="-28.74756527133286">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524700431153178" lon="-28.747521936893463">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524728342890739" lon="-28.747430071234703">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524753823876381" lon="-28.747346000745893">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524754494428635" lon="-28.7473439052701">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524758769199252" lon="-28.747329823672771">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524759942665696" lon="-28.747326135635376">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524791039526463" lon="-28.747231755405664">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524828674271703" lon="-28.74712941236794">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524845521897078" lon="-28.747043833136559">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524853652343154" lon="-28.747002510353923">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524857927113771" lon="-28.746980968862772">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524862453341484" lon="-28.746976023539901">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.52486907504499" lon="-28.746969066560268">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524888521060348" lon="-28.74694811180234">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524931184947491" lon="-28.746902430430055">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524933867156506" lon="-28.74690075404942">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.524962114170194" lon="-28.74688365496695">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525022128596902" lon="-28.746847277507186">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525066636502743" lon="-28.74685431830585">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525094296783209" lon="-28.746837554499507">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525151293724775" lon="-28.746847026050091">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525160010904074" lon="-28.746845349669456">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525226227939129" lon="-28.746841410174966">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525367295369506" lon="-28.746833195909858">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525457484647632" lon="-28.746794639155269">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525458155199885" lon="-28.746794303879142">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525552116334438" lon="-28.74675415456295">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525740876793861" lon="-28.746632030233741">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.525922344997525" lon="-28.746592383831739">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526033908128738" lon="-28.746592383831739">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526125019416213" lon="-28.746592300012708">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526172963902354" lon="-28.74659288674593">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526206407696009" lon="-28.746589114889503">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526224093511701" lon="-28.746593473479152">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526267679408193" lon="-28.746594060212374">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526340769603848" lon="-28.746594898402691">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526370273903012" lon="-28.746601855382323">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526371195912361" lon="-28.746602274477482">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526413440704346" lon="-28.74660562723875">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526426432654262" lon="-28.746611746028066">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526560040190816" lon="-28.746674526482821">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526591388508677" lon="-28.746689278632402">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526619216427207" lon="-28.74670235440135">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526637405157089" lon="-28.746691374108195">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526745950803161" lon="-28.746746191754937">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526780484244227" lon="-28.746763626113534">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526881067082286" lon="-28.746789023280144">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526929598301649" lon="-28.746790196746588">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.526960276067257" lon="-28.746790951117873">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527065385133028" lon="-28.746793465688825">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527128165587783" lon="-28.746794974431396">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527215672656894" lon="-28.746797069907188">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527293624356389" lon="-28.746798997744918">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527296558022499" lon="-28.74679908156395">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527314076200128" lon="-28.746799500659108">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527319943532348" lon="-28.74679958447814">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527374677360058" lon="-28.746800925582647">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527433183044195" lon="-28.746774354949594">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527450617402792" lon="-28.746766475960612">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527502166107297" lon="-28.746753400191665">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527544494718313" lon="-28.746742587536573">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527611382305622" lon="-28.746708305552602">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527612807229161" lon="-28.746707383543253">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527631917968392" lon="-28.746694643050432">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527640383690596" lon="-28.746684668585658">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527646670117974" lon="-28.746677460148931">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527705175802112" lon="-28.746650805696845">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527710372582078" lon="-28.746648458763957">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527784636244178" lon="-28.746501104906201">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527784049510956" lon="-28.746499847620726">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527794275432825" lon="-28.74647269025445">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527797209098935" lon="-28.746441341936588">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527794443070889" lon="-28.746410915628076">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527786899358034" lon="-28.746383674442768">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527775667607784" lon="-28.746356684714556">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527631666511297" lon="-28.74615216627717">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527618506923318" lon="-28.746133809909225">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527614483609796" lon="-28.7461281940341">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527599899098277" lon="-28.746102964505553">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527558324858546" lon="-28.745989892631769">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527532424777746" lon="-28.745869696140289">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527527144178748" lon="-28.745845388621092">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527522785589099" lon="-28.745788810774684">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527524713426828" lon="-28.745813202112913">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527762172743678" lon="-28.745692921802402">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.527998207136989" lon="-28.745580101385713">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528148494660854" lon="-28.745497455820441">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528432138264179" lon="-28.745316658169031">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528561973944306" lon="-28.745241640135646">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528608996421099" lon="-28.745221020653844">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528629029169679" lon="-28.745214650407434">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528682589530945" lon="-28.745204592123628">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528718296438456" lon="-28.74519788660109">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528744196519256" lon="-28.745193025097251">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528772862628102" lon="-28.745187660679221">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.528965562582016" lon="-28.745151534676552">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529036892578006" lon="-28.745146002620459">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529163626953959" lon="-28.745136028155684">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529336713254452" lon="-28.745119096711278">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529540980234742" lon="-28.745099063962698">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.52962102741003" lon="-28.745095459744334">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529661679640412" lon="-28.745093699544668">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529675509780645" lon="-28.745092777535319">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.52970702573657" lon="-28.745090682059526">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529908778145909" lon="-28.744854647666216">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529928056523204" lon="-28.744774851948023">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529963092878461" lon="-28.744648955762386">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529969798400998" lon="-28.744624732062221">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.529985137283802" lon="-28.744569746777415">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530003242194653" lon="-28.744550887495279">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530018497258425" lon="-28.744498500600457">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53001874871552" lon="-28.744497578591108">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530048839747906" lon="-28.744434546679258">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530050851404667" lon="-28.744432115927339">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530053030699492" lon="-28.744429433718324">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530054120346904" lon="-28.744428176432848">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530080523341894" lon="-28.744396828114986">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530113715678453" lon="-28.744373694062233">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530187727883458" lon="-28.744339747354388">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530219411477447" lon="-28.744325330480933">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530261656269431" lon="-28.744305968284607">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530552927404642" lon="-28.744180742651224">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530592825263739" lon="-28.74416783452034">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530629370361567" lon="-28.744155932217836">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53070137090981" lon="-28.744132462888956">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530812179669738" lon="-28.744096420705318">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.530824333429337" lon="-28.74409600161016">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531019547954202" lon="-28.744089966639876">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531029773876071" lon="-28.744092984125018">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531145192682743" lon="-28.744127433747053">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531204452738166" lon="-28.744163056835532">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53121442720294" lon="-28.744169091805816">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531247032806277" lon="-28.744188705459237">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53128676302731" lon="-28.744212677702308">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531323811039329" lon="-28.744234973564744">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531377958133817" lon="-28.744282918050885">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531395811587572" lon="-28.744298676028848">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531422801315784" lon="-28.744322480633855">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531470661982894" lon="-28.744364809244871">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531493125483394" lon="-28.744384674355388">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531537214294076" lon="-28.744423650205135">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531556827947497" lon="-28.744425075128675">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531576190143824" lon="-28.744438150897622">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531623380258679" lon="-28.744455920532346">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531669480726123" lon="-28.744461117312312">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531715665012598" lon="-28.74446639791131">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531735446304083" lon="-28.744460698217154">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53177634999156" lon="-28.744448963552713">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531806189566851" lon="-28.744436809793115">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531832676380873" lon="-28.744420716539025">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531866539269686" lon="-28.744387524202466">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531933845952153" lon="-28.744288450106978">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531949771568179" lon="-28.7442372366786">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.531965529546142" lon="-28.74418593943119">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532058568671346" lon="-28.743839263916016">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532086061313748" lon="-28.743781764060259">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532394431531429" lon="-28.743312209844589">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532398538663983" lon="-28.743304163217545">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532465593889356" lon="-28.743208106607199">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532486129552126" lon="-28.743183631449938">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532569780945778" lon="-28.743134429678321">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532765666022897" lon="-28.743019346147776">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532889802008867" lon="-28.742958158254623">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532957192510366" lon="-28.742929492145777">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.532962389290333" lon="-28.742928821593523">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533397410064936" lon="-28.742771157994866">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533406294882298" lon="-28.742767889052629">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533417526632547" lon="-28.74276545830071">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.533874340355396" lon="-28.742665965110064">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534058993682265" lon="-28.742620870471001">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534368621185422" lon="-28.742542080581188">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534441627562046" lon="-28.742520119994879">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534513292834163" lon="-28.742498494684696">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534577498212457" lon="-28.742479216307402">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534624017775059" lon="-28.742426997050643">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534699622541666" lon="-28.742301017045975">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534791488200426" lon="-28.742128601297736">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.534958539530635" lon="-28.741884520277381">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.53510145097971" lon="-28.741729706525803">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535209074616432" lon="-28.741574892774224">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="38.535241428762674" lon="-28.741528457030654">
+        <ele>0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>
