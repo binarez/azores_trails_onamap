@@ -1,0 +1,8099 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2019-06-07T15:54:33Z</time>
+    <bounds maxlat="37.7488680370152" maxlon="-25.195266678929329" minlat="37.737591024488211" minlon="-25.2503258921206" />
+  </metadata>
+
+  <wpt lat="37.745987679809332" lon="-25.246156817302108">
+    <ele>0</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>ALOJAMENTO TURÍSTICO11</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;ALOJAMENTO TURÍSTICO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;ALOJAMENTO TURÍSTICO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;ALOJAMENTO TURÍSTICO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR12SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;ALOJAMENTO TURÍSTICO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;ALOJAMENTO TURÍSTICO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;ALOJAMENTO TURÍSTICO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR12SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.746528228744864" lon="-25.200901245698333">
+    <ele>7.907310962677002</ele>
+    <time>2019-06-07T15:51:36Z</time>
+    <name>ALOJAMENTO TURÍSTICO3</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;ALOJAMENTO TURÍSTICO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;ALOJAMENTO TURÍSTICO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;ALOJAMENTO TURÍSTICO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC09SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;FAIAL DA TERRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;ALOJAMENTO TURÍSTICO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;ALOJAMENTO TURÍSTICO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;ALOJAMENTO TURÍSTICO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC09SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;FAIAL DA TERRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:51:36Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.746952185407281" lon="-25.201046420261264">
+    <ele>30</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>BUS111</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC09SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;FAIAL DA TERRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC09SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;FAIAL DA TERRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.747168773785233" lon="-25.244537768885493">
+    <ele>8.60231876373291</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>BUS26</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.742185816168785" lon="-25.19593857228756">
+    <ele>0</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>BUS27</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC09SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;FAIAL DA TERRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC09SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;FAIAL DA TERRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.745161475613713" lon="-25.198775762692094">
+    <ele>0</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>BUS34</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC09SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;FAIAL DA TERRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;BUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC09SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;FAIAL DA TERRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.74674104526639" lon="-25.242079440504313">
+    <ele>0</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>FONTENÁRIO9</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;FONTENÁRIO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;FONTENÁRIO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;FONTANÁRIO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;FONTENÁRIO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;FONTENÁRIO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;FONTANÁRIO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.742404416203499" lon="-25.195266678929329">
+    <ele>5.639695167541504</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>IGREJA111</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;IGREJA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;IGREJA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;IGREJA DE Nª Sª DA GRAÇA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC09SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;FAIAL DA TERRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;IGREJA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;IGREJA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;IGREJA DE Nª Sª DA GRAÇA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC09SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;FAIAL DA TERRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.746846070513129" lon="-25.248314402997494">
+    <ele>6.901578426361084</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>IGREJA24</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;IGREJA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;IGREJA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;IGREJA DE Nª Sª DO ROSÁRIO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR12SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;IGREJA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;IGREJA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;IGREJA DE Nª Sª DO ROSÁRIO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR12SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.7488680370152" lon="-25.243701171129942">
+    <ele>0</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>IGREJA25</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;IGREJA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;IGREJA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;IGREJA DE Nª Sª MÃE DE JESUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;IGREJA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;IGREJA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;IGREJA DE Nª Sª MÃE DE JESUS&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.744070487096906" lon="-25.196221964433789">
+    <ele>10</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>MERCADO11</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;MERCADO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;MERCADO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;MERCADO LOCAL&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC09SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;FAIAL DA TERRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;MERCADO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;MERCADO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;MERCADO LOCAL&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC09SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;FAIAL DA TERRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.747321994975209" lon="-25.244493931531906">
+    <ele>7.761955261230469</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>MERCADO4</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;MERCADO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;MERCADO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;MERCADO LOCAL&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;MERCADO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;MERCADO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;MERCADO LOCAL&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.747197607532144" lon="-25.219672434031963">
+    <ele>0</ele>
+    <time>2019-06-07T15:51:36Z</time>
+    <name>MIRADOURO37</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;MIRADOURO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;MIRADOURO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;MIRADOURO DO PICO DOS BODES&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;FAIAL DA TERRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;MIRADOURO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;MIRADOURO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;MIRADOURO DO PICO DOS BODES&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;FAIAL DA TERRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:51:36Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.746704248711467" lon="-25.244636926800013">
+    <ele>0</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>PARQUE DE ESTACIONAMENTO11</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.745322491973639" lon="-25.245361709967256">
+    <ele>0</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>PARQUE DE ESTACIONAMENTO21</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR12SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR12SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.74687591008842" lon="-25.239419946447015">
+    <ele>0</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>PARQUE DE ESTACIONAMENTO3</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;ÁGUA RETORTA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;ÁGUA RETORTA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.746676253154874" lon="-25.248380787670612">
+    <ele>7.06870174407959</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>PARQUE DE ESTACIONAMENTO4</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR12SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;PARQUE DE ESTACIONAMENTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR12SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.747577559202909" lon="-25.2503258921206">
+    <ele>9.395415306091309</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>PONTE4</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;PONTE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;PONTE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;PONTE DE "FERRO"&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR12SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;PONTE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;PONTE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;PONTE DE "FERRO"&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR12SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.74842387996614" lon="-25.245607802644372">
+    <ele>10</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>PONTO DE INTERESSE10</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;PONTO DE INTERESSE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;PONTO DE INTERESSE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;PARQUE ZOOLÓGICO DA POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;PONTO DE INTERESSE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;PONTO DE INTERESSE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;PARQUE ZOOLÓGICO DA POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.73759295232594" lon="-25.202146964147687">
+    <ele>0</ele>
+    <time>2019-06-07T15:51:36Z</time>
+    <name>PONTO DE INTERESSE14</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;PONTO DE INTERESSE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;PONTO DE INTERESSE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;VIGIA DA BALEIA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;FAIAL DA TERRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;PONTO DE INTERESSE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;PONTO DE INTERESSE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;VIGIA DA BALEIA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;FAIAL DA TERRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:51:36Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.745910985395312" lon="-25.247413851320744">
+    <ele>0</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>PORTO</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;PORTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;PORTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;PORTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR12SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;PORTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;PORTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;PORTO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR12SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.748100087046623" lon="-25.244774054735899">
+    <ele>6.98630428314209</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>RESTAURAÇÃO10</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;RESTAURAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;RESTAURAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;RESTAURANTE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;RESTAURAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;RESTAURAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;RESTAURANTE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.744243741035461" lon="-25.195853412151337">
+    <ele>10.55168342590332</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>RESTAURAÇÃO13</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;RESTAURAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;RESTAURAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;RESTAURANTE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC09SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;FAIAL DA TERRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;RESTAURAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;RESTAURAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;RESTAURANTE&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC09SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;FAIAL DA TERRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.747078835964203" lon="-25.201192013919353">
+    <ele>30.00502777099609</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>VOÇÊ ESTÁ AQUI11</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;VOÇÊ ESTÁ AQUI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;VOÇÊ ESTÁ AQUI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;SANGUINHO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC09SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;FAIAL DA TERRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;VOÇÊ ESTÁ AQUI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;VOÇÊ ESTÁ AQUI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;SANGUINHO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PRC09SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;FAIAL DA TERRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.74645178578794" lon="-25.244929203763604">
+    <ele>0</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>VOÇÊ ESTÁ AQUI21</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;VOÇÊ ESTÁ AQUI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;VOÇÊ ESTÁ AQUI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;VIGIA DA BALEIA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;VOÇÊ ESTÁ AQUI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;VOÇÊ ESTÁ AQUI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;VIGIA DA BALEIA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.745187459513545" lon="-25.198865197598934">
+    <ele>0</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>VOÇÊ ESTÁ AQUI3</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;VOÇÊ ESTÁ AQUI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;VOÇÊ ESTÁ AQUI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;VIGIA DA BALEIA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;FAIAL DA TERRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;VOÇÊ ESTÁ AQUI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;VOÇÊ ESTÁ AQUI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;VIGIA DA BALEIA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;FAIAL DA TERRA&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.746907761320472" lon="-25.248525040224195">
+    <ele>5.644586086273193</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>VOÇÊ ESTÁ AQUI4</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;VOÇÊ ESTÁ AQUI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;VOÇÊ ESTÁ AQUI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;AGRIÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR12SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;VOÇÊ ESTÁ AQUI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;VOÇÊ ESTÁ AQUI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;AGRIÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR12SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.746879514306784" lon="-25.249054273590446">
+    <ele>6.924206733703613</ele>
+    <time>2019-06-07T15:52:18Z</time>
+    <name>ZONA BALNEAR10</name>
+    <cmt>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;ZONA BALNEAR&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;ZONA BALNEAR&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;PRAIA DA POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR12SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</cmt>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;ZONA BALNEAR&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;ZONA BALNEAR&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DESCRIÇÃO&lt;/td&gt;
+
+&lt;td&gt;PRAIA DA POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Código&lt;/td&gt;
+
+&lt;td&gt;PR12SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Ilha&lt;/td&gt;
+
+&lt;td&gt;ILHA DE SÃO MIGUEL (AÇORES)&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Concelho&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;Freguesia&lt;/td&gt;
+
+&lt;td&gt;POVOAÇÃO&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-06-07T15:52:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <trk>
+    <name>Vigia da Baleia 001</name>
+    <desc>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+&lt;head&gt;
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+&lt;/head&gt;
+
+&lt;body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;"&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px"&gt;
+
+&lt;tr style="text-align:center;font-weight:bold;background:#9CBCE2"&gt;
+
+&lt;td&gt;Vigia da Baleia&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;
+
+&lt;table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;TEMA&lt;/td&gt;
+
+&lt;td&gt;Percursos Pedestres&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CODIGO&lt;/td&gt;
+
+&lt;td&gt;PR18SMI&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;DESIGNACAO&lt;/td&gt;
+
+&lt;td&gt;Vigia da Baleia&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;DISTANCIA&lt;/td&gt;
+
+&lt;td&gt;7 km&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;DURACAO&lt;/td&gt;
+
+&lt;td&gt;3h00m&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CATEGORIA&lt;/td&gt;
+
+&lt;td&gt;Linear&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;DIFICULDADE&lt;/td&gt;
+
+&lt;td&gt;Médio&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;SITUACAO&lt;/td&gt;
+
+&lt;td&gt;Homologação&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;GRAU_PERIGOSIDADE&lt;/td&gt;
+
+&lt;td&gt;Familiar&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;FONTE&lt;/td&gt;
+
+&lt;td&gt;Direção Regional do Turismo&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ENTIDADE_PROPONENTE&lt;/td&gt;
+
+&lt;td&gt;Câmara Municipal de Povoação&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;RESPONS_MANUTENCAO&lt;/td&gt;
+
+&lt;td&gt;Câmara Municipal de Povoação&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;RESPONS_SINALIZACAO&lt;/td&gt;
+
+&lt;td&gt;Direção Regional do Turismo&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;CONCELHO&lt;/td&gt;
+
+&lt;td&gt;Povoação&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ILHA&lt;/td&gt;
+
+&lt;td&gt;São Miguel&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;AREA_PROTEGIDA&lt;/td&gt;
+
+&lt;td&gt;N/A&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;OBSERVACOES&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr bgcolor="#D4E4F3"&gt;
+
+&lt;td&gt;SHAPE_Length&lt;/td&gt;
+
+&lt;td&gt;7038,315379&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;FREGUESIA&lt;/td&gt;
+
+&lt;td&gt;Faial da Terra; Povoação&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;</desc>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>DarkGray</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.746449187397957" lon="-25.244996594265103">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746411468833685" lon="-25.24501889012754">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74640928953886" lon="-25.244995672255754">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746373079717159" lon="-25.244841948151588">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746289595961571" lon="-25.244486136361957">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746207034215331" lon="-25.244139293208718">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746203681454062" lon="-25.244077853858471">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746215332299471" lon="-25.243980623781681">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746231593191624" lon="-25.243910467252135">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746250117197633" lon="-25.243831928819418">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74627098813653" lon="-25.243766717612743">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746280459687114" lon="-25.243683904409409">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746282890439034" lon="-25.243637971580029">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746283309534192" lon="-25.243556248024106">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746283812448382" lon="-25.243429346010089">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746301833540201" lon="-25.243321554735303">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746340977028012" lon="-25.243105217814445">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746385401114821" lon="-25.242886617779732">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746462179347873" lon="-25.242470121011138">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74650702252984" lon="-25.242292508482933">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746595535427332" lon="-25.242185220122337">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746706930920482" lon="-25.242062509059906">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746747583150864" lon="-25.242022024467587">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746796701103449" lon="-25.241965781897306">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746825031936169" lon="-25.241920771077275">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74690231308341" lon="-25.241790600121021">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746924022212625" lon="-25.241741817444563">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746989317238331" lon="-25.241588428616524">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747035417705774" lon="-25.241440990939736">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747082021087408" lon="-25.241287099197507">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747083865106106" lon="-25.241212751716375">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747076908126473" lon="-25.24110252968967">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74706450290978" lon="-25.241034552454948">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747031729668379" lon="-25.240913685411215">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747010523453355" lon="-25.240746298804879">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746978420764208" lon="-25.240521663799882">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746961740776896" lon="-25.240405071526766">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746904408559203" lon="-25.240193931385875">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746825451031327" lon="-25.240034507587552">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746767783537507" lon="-25.239857481792569">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746768118813634" lon="-25.239741308614612">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746779434382915" lon="-25.239643240347505">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746786056086421" lon="-25.239549865946174">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746820924803615" lon="-25.239419192075729">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746826121583581" lon="-25.239305701106787">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746813632547855" lon="-25.239176033064723">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746771387755871" lon="-25.238982746377587">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746668290346861" lon="-25.238778982311487">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746591260656714" lon="-25.23861201480031">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746560666710138" lon="-25.238545797765255">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746408199891448" lon="-25.238215299323201">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746376013383269" lon="-25.23813365958631">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746337875723839" lon="-25.237846747040749">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746325805783272" lon="-25.23703713901341">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746299486607313" lon="-25.236119404435158">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.7462915237993" lon="-25.23581706918776">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746288087219" lon="-25.235687736421824">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746274257078767" lon="-25.235166130587459">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746272915974259" lon="-25.234645111486316">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746272664517164" lon="-25.234157368540764">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746272664517164" lon="-25.234133563935757">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746273754164577" lon="-25.234008925035596">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746222289279103" lon="-25.234038094058633">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746044928207994" lon="-25.234142113476992">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746027074754238" lon="-25.234152590855956">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746005030348897" lon="-25.234146304428577">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745980639010668" lon="-25.234129624441266">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745768073946238" lon="-25.233973721042275">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745567997917533" lon="-25.233810022473335">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745514018461108" lon="-25.233774734660983">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745475545525551" lon="-25.233749588951468">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745421817526221" lon="-25.23371446877718">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745403712615371" lon="-25.233697202056646">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745372196659446" lon="-25.233660573139787">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745332885533571" lon="-25.23360600695014">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745320899412036" lon="-25.233573988080025">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745311008766294" lon="-25.23354004137218">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745306566357613" lon="-25.23350827395916">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745306482538581" lon="-25.233470806851983">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745311511680484" lon="-25.233433339744806">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745323330163956" lon="-25.233396543189883">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745339339599013" lon="-25.233361087739468">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745360545814037" lon="-25.233316579833627">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745369430631399" lon="-25.233297804370522">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745367838069797" lon="-25.233271904289722">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745350738987327" lon="-25.233272407203913">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745349984616041" lon="-25.233268970623612">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745345961302519" lon="-25.233272574841976">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74533967487514" lon="-25.23327274248004">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745311260223389" lon="-25.233276598155499">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745293322950602" lon="-25.233283974230289">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745285360142589" lon="-25.233287243172526">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745262812823057" lon="-25.233287075534463">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74525267072022" lon="-25.233252793550491">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745253760367632" lon="-25.233222618699074">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745258370414376" lon="-25.233193449676037">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745253005996346" lon="-25.23312421515584">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745235990732908" lon="-25.23308951407671">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745222495868802" lon="-25.23306705057621">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745194835588336" lon="-25.233001755550504">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745191231369972" lon="-25.232967557385564">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745164074003696" lon="-25.232722219079733">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745163990184665" lon="-25.232691876590252">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745165415108204" lon="-25.232625911012292">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74517010897398" lon="-25.232598586007953">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745177652686834" lon="-25.23256866261363">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745179161429405" lon="-25.232538152486086">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745183436200023" lon="-25.232528680935502">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745192321017385" lon="-25.23243622854352">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745192991569638" lon="-25.232426002621651">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745193662121892" lon="-25.23242256604135">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745195338502526" lon="-25.232405550777912">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745195841416717" lon="-25.232314858585596">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745196847245097" lon="-25.232128361240029">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745196931064129" lon="-25.232105059549212">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745198272168636" lon="-25.231851255521178">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.7451984398067" lon="-25.231834072619677">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745198607444763" lon="-25.231820410117507">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745196344330907" lon="-25.231789480894804">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745182262733579" lon="-25.23173944093287">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745170276612043" lon="-25.231696693226695">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745157619938254" lon="-25.23166568018496">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745128870010376" lon="-25.231519164517522">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745119482278824" lon="-25.231474488973618">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745101964101195" lon="-25.231418330222368">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744977157562971" lon="-25.231169974431396">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74496391415596" lon="-25.231138961389661">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744956873357296" lon="-25.231108032166958">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744956286624074" lon="-25.231077186763287">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745011271908879" lon="-25.230862526223063">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745018396526575" lon="-25.230831764638424">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745019569993019" lon="-25.230801422148943">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744997022673488" lon="-25.230710478499532">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744989143684506" lon="-25.230680387467146">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744986712932587" lon="-25.230590784922242">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744987886399031" lon="-25.230560610070825">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744991825893521" lon="-25.230532195419073">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744996184483171" lon="-25.23051786236465">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744999621063471" lon="-25.230506546795368">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745049996301532" lon="-25.230427421629429">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745074555277824" lon="-25.23038886487484">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745089642703533" lon="-25.230365144088864">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745100874453783" lon="-25.230341255664825">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745108921080828" lon="-25.230238661170006">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745074890553951" lon="-25.229961220175028">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745070867240429" lon="-25.229930961504579">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745068855583668" lon="-25.229891315102577">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745067849755287" lon="-25.229862062260509">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745059719309211" lon="-25.229755444452167">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74505821056664" lon="-25.229719402268529">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744981180876493" lon="-25.229531228542328">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744965255260468" lon="-25.229507675394416">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744951173663139" lon="-25.229482278227806">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744939690455794" lon="-25.229455623775721">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744930386543274" lon="-25.229387227445841">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744931140914559" lon="-25.22934515029192">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744947820901871" lon="-25.229270299896598">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744957879185677" lon="-25.229236856102943">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744970200583339" lon="-25.229209614917636">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744990652427077" lon="-25.229188073426485">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74501621723175" lon="-25.229163933545351">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745056031271815" lon="-25.229126550257206">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745078494772315" lon="-25.229101656004786">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745128534734249" lon="-25.229012472555041">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74517547339201" lon="-25.228922702372074">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.7451984398067" lon="-25.228878697380424">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74525560438633" lon="-25.228769397363067">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745322994887829" lon="-25.228690020740032">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745345961302519" lon="-25.228669736534357">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745505552738905" lon="-25.228623552247882">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745528351515532" lon="-25.228616930544376">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745551150292158" lon="-25.228605950251222">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745574116706848" lon="-25.228584073483944">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745594149455428" lon="-25.228556832298636">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745650392025709" lon="-25.228436887264252">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745661875233054" lon="-25.228410651907325">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745664054527879" lon="-25.228400509804487">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745667910203338" lon="-25.2283825725317">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74567193351686" lon="-25.228349128738046">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745730020105839" lon="-25.228119967505336">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745741922408342" lon="-25.228073028847575">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745744520798326" lon="-25.228050984442234">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745775114744902" lon="-25.227796258404851">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74576916359365" lon="-25.227671451866627">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74576723575592" lon="-25.227645803242922">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745764553546906" lon="-25.227609844878316">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745748292654753" lon="-25.227393927052617">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745749298483133" lon="-25.227363165467978">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745754243806005" lon="-25.227332403883338">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745775952935219" lon="-25.227271132171154">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745925569906831" lon="-25.227029817178845">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74592699483037" lon="-25.227028056979179">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746086670085788" lon="-25.226834854111075">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746177781373262" lon="-25.226711388677359">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746240729466081" lon="-25.226626060903072">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746252380311489" lon="-25.226606531068683">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746258834376931" lon="-25.226595550775528">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74626855738461" lon="-25.226565040647984">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746268892660737" lon="-25.226534111425281">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746182726696134" lon="-25.22632397711277">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746167136356235" lon="-25.226286090910435">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746154479682446" lon="-25.2262550778687">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746139308437705" lon="-25.226162374019623">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.7461361233145" lon="-25.226131528615952">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746094046160579" lon="-25.225996999070048">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746068397536874" lon="-25.225914856418967">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74604425765574" lon="-25.225852830335498">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745969910174608" lon="-25.225666500627995">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745933029800653" lon="-25.225573796778917">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74592406116426" lon="-25.225542867556214">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745919283479452" lon="-25.225465334951878">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745916433632374" lon="-25.225419569760561">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745916768908501" lon="-25.22538872435689">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745935544371605" lon="-25.225297948345542">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74594359099865" lon="-25.225265678018332">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745947195217013" lon="-25.225237095728517">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745962534099817" lon="-25.22514489479363">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746026068925858" lon="-25.224961079657078">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746122963726521" lon="-25.22474717348814">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74625338613987" lon="-25.22450284101069">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746283141896129" lon="-25.224441653117537">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746352460235357" lon="-25.224165553227067">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746357992291451" lon="-25.224134875461459">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746360925957561" lon="-25.224073268473148">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746361177414656" lon="-25.223765233531594">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746358914300799" lon="-25.223734471946955">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746330667287111" lon="-25.223610838875175">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746257074177265" lon="-25.223332392051816">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746254224330187" lon="-25.223270701244473">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746254894882441" lon="-25.223239939659834">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746322704479098" lon="-25.223025446757674">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746396213769913" lon="-25.222749346867204">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746401075273752" lon="-25.222595455124974">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746404260396957" lon="-25.222288677468896">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746404176577926" lon="-25.222258418798447">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746378108859062" lon="-25.222141072154045">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746368385851383" lon="-25.222097402438521">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746362937614322" lon="-25.22207292728126">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746359333395958" lon="-25.222011236473918">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746359584853053" lon="-25.221980474889278">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746434016153216" lon="-25.221704374998808">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746438542380929" lon="-25.221581244841218">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746437704190612" lon="-25.221569091081619">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746434267610312" lon="-25.221519637852907">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746428065001965" lon="-25.221488624811172">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746415492147207" lon="-25.221449313685298">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746403338387609" lon="-25.221424754709005">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746398979797959" lon="-25.221416037529707">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746395962312818" lon="-25.221415450796485">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746394872665405" lon="-25.221411762759089">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746372744441032" lon="-25.221322160214186">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746345167979598" lon="-25.221075229346752">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74630325846374" lon="-25.220920583233237">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74623729288578" lon="-25.220752442255616">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746193706989288" lon="-25.220641549676657">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746180463582277" lon="-25.220333347097039">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746181469410658" lon="-25.220240894705057">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746186330914497" lon="-25.21995272487402">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746187001466751" lon="-25.219887429848313">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746189935132861" lon="-25.21960043348372">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746190521866083" lon="-25.219578808173537">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746198400855064" lon="-25.219292566180229">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746209967881441" lon="-25.219048233702779">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746219271793962" lon="-25.218958714976907">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746279202401638" lon="-25.2187086828053">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746323458850384" lon="-25.218615559861064">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746403589844704" lon="-25.218446748331189">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746428651735187" lon="-25.218382710590959">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746522696688771" lon="-25.218099737539887">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746609365567565" lon="-25.217804443091154">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746695196256042" lon="-25.217509148642421">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746797623112798" lon="-25.217213770374656">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746821092441678" lon="-25.217124838382006">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746875490993261" lon="-25.216918559744954">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746934834867716" lon="-25.216623684391379">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746940786018968" lon="-25.216476330533624">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746951598674059" lon="-25.216282792389393">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746957130730152" lon="-25.21618346683681">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746982695534825" lon="-25.21609453484416">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746983701363206" lon="-25.216092020273209">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746995352208614" lon="-25.216063102707267">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747007505968213" lon="-25.216046590358019">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747011026367545" lon="-25.216041728854179">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747047487646341" lon="-25.216013733297586">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747053103521466" lon="-25.216009458526969">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747078165411949" lon="-25.216037034988403">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747061820700765" lon="-25.216024629771709">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747092330828309" lon="-25.216052709147334">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747105490416288" lon="-25.216067209839821">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747277738526464" lon="-25.216240379959345">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747287545353174" lon="-25.216250186786056">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74733423255384" lon="-25.216297209262848">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747430792078376" lon="-25.216442300006747">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74737723171711" lon="-25.216458896175027">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747356947511435" lon="-25.216470882296562">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.7473552711308" lon="-25.216472307220101">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747335657477379" lon="-25.216488903388381">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747314954176545" lon="-25.216512875631452">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747294418513775" lon="-25.216542212292552">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747285282239318" lon="-25.216559898108244">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747258376330137" lon="-25.216611782088876">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747252592816949" lon="-25.216628545895219">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747242785990238" lon="-25.216659307479858">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747235745191574" lon="-25.216685542836785">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.7472292073071" lon="-25.216722507029772">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747226441279054" lon="-25.216759303584695">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747226525098085" lon="-25.216796100139618">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74722627364099" lon="-25.217015957459807">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747226189821959" lon="-25.217090388759971">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74721747264266" lon="-25.217384928837419">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747219735756516" lon="-25.217479225248098">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747220238670707" lon="-25.2174998447299">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747223591431975" lon="-25.217642420902848">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747237337753177" lon="-25.217679049819708">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747245887294412" lon="-25.217696065083146">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747249659150839" lon="-25.217703524976969">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747281929478049" lon="-25.217750798910856">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747448477894068" lon="-25.21791223436594">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747504385188222" lon="-25.217949198558927">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747679650783539" lon="-25.218052128329873">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747857850044966" lon="-25.218187663704157">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747939992696047" lon="-25.218277014791965">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747954493388534" lon="-25.218292772769928">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74801199324429" lon="-25.218364270403981">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.748044598847628" lon="-25.218420680612326">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74807988665998" lon="-25.218480108305812">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74809455499053" lon="-25.218515647575259">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.748106373474002" lon="-25.218553869053721">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.748112743720412" lon="-25.218581445515156">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.748120874166489" lon="-25.218651602044702">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.748129172250628" lon="-25.218744557350874">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.748123807832599" lon="-25.218964079394937">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.748116431757808" lon="-25.219050329178572">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.748115928843617" lon="-25.219052424654365">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.748007383197546" lon="-25.219327853992581">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747872602194548" lon="-25.219572102651">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747732121497393" lon="-25.219729514792562">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747720805928111" lon="-25.219742171466351">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747687948867679" lon="-25.21974166855216">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747686356306076" lon="-25.219741584733129">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747663892805576" lon="-25.219740746542811">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747640339657664" lon="-25.219736723229289">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74761863052845" lon="-25.219729347154498">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747564818710089" lon="-25.219698585569859">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747550066560507" lon="-25.219690119847655">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747357366606593" lon="-25.219505885615945">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747330712154508" lon="-25.219483589753509">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747303303331137" lon="-25.219464730471373">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747275223955512" lon="-25.219450984150171">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747247144579887" lon="-25.219441764056683">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747218981385231" lon="-25.219439836218953">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747210096567869" lon="-25.219442099332809">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747215963900089" lon="-25.219440590590239">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747218981385231" lon="-25.219439836218953">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747247144579887" lon="-25.219441764056683">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747275223955512" lon="-25.219450984150171">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747303303331137" lon="-25.219464730471373">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747330712154508" lon="-25.219483589753509">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747357366606593" lon="-25.219505885615945">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747550066560507" lon="-25.219690119847655">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747564818710089" lon="-25.219698585569859">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74761863052845" lon="-25.219729347154498">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747640339657664" lon="-25.219736723229289">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747663892805576" lon="-25.219740746542811">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747686356306076" lon="-25.219741584733129">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747687948867679" lon="-25.21974166855216">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747720805928111" lon="-25.219742171466351">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747732121497393" lon="-25.219729514792562">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747872602194548" lon="-25.219572102651">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.748007383197546" lon="-25.219327853992581">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.748115928843617" lon="-25.219052424654365">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.748116431757808" lon="-25.219050329178572">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.748123807832599" lon="-25.218964079394937">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.748129172250628" lon="-25.218744557350874">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.748120874166489" lon="-25.218651602044702">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.748112743720412" lon="-25.218581445515156">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.748106373474002" lon="-25.218553869053721">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74809455499053" lon="-25.218515647575259">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74807988665998" lon="-25.218480108305812">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.748044598847628" lon="-25.218420680612326">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74801199324429" lon="-25.218364270403981">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747954493388534" lon="-25.218292772769928">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747939992696047" lon="-25.218277014791965">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747857850044966" lon="-25.218187663704157">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747679650783539" lon="-25.218052128329873">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747459458187222" lon="-25.217922879382968">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747281929478049" lon="-25.217750798910856">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747249659150839" lon="-25.217703524976969">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747245887294412" lon="-25.217696065083146">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747237337753177" lon="-25.217679049819708">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747223591431975" lon="-25.217642420902848">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747220238670707" lon="-25.2174998447299">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747218981385231" lon="-25.2174929715693">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747219735756516" lon="-25.217479225248098">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74721747264266" lon="-25.217384928837419">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747226189821959" lon="-25.217090388759971">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74722627364099" lon="-25.217015957459807">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747226525098085" lon="-25.216796100139618">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747226441279054" lon="-25.216759303584695">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747228620573878" lon="-25.216730469837785">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747231218963861" lon="-25.21671119146049">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747235745191574" lon="-25.216685542836785">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747245635837317" lon="-25.216648662462831">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747258376330137" lon="-25.216611782088876">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747285282239318" lon="-25.216559898108244">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747294418513775" lon="-25.216542212292552">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747314954176545" lon="-25.216512875631452">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747335657477379" lon="-25.216488903388381">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.7473552711308" lon="-25.216472307220101">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747356947511435" lon="-25.216470882296562">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74737723171711" lon="-25.216458896175027">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747430792078376" lon="-25.216442300006747">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74733423255384" lon="-25.216297209262848">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747287545353174" lon="-25.216250186786056">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747277738526464" lon="-25.216240379959345">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747169779613614" lon="-25.216131834313273">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747113956138492" lon="-25.216072490438819">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747092330828309" lon="-25.216052709147334">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747092247009277" lon="-25.216052541509271">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747082021087408" lon="-25.216039968654513">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747078165411949" lon="-25.216037034988403">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.747053103521466" lon="-25.216009458526969">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746930392459035" lon="-25.215874006971717">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746742637827992" lon="-25.215710140764713">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746652197092772" lon="-25.215635793283582">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746605006977916" lon="-25.215596985071898">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74655245244503" lon="-25.215553734451532">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746501574292779" lon="-25.215481230989099">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746426137164235" lon="-25.215373774990439">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746403086930513" lon="-25.215340917930007">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746339133009315" lon="-25.215169843286276">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746303677558899" lon="-25.215100524947047">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74627685546875" lon="-25.215048221871257">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746210135519505" lon="-25.214918134734035">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74619379080832" lon="-25.214897179976106">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746166130527854" lon="-25.214874800294638">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746163280680776" lon="-25.214771702885628">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74616738781333" lon="-25.214651506394148">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746189013123512" lon="-25.214504571631551">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746199741959572" lon="-25.214425446465611">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746210470795631" lon="-25.214350176975131">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746262270957232" lon="-25.21422503516078">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746307449415326" lon="-25.214062510058284">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746333098039031" lon="-25.213983133435249">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746339971199632" lon="-25.213847849518061">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746347850188613" lon="-25.213776268064976">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74631348438561" lon="-25.213671997189522">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746267635375261" lon="-25.213594296947122">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746204352006316" lon="-25.213550794869661">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746091950684786" lon="-25.213410817086697">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.746040066704154" lon="-25.21333328448236">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745963791385293" lon="-25.213215015828609">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745902687311172" lon="-25.213118875399232">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745866309851408" lon="-25.213074702769518">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745788441970944" lon="-25.213054083287716">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745692636817694" lon="-25.213022567331791">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745590880513191" lon="-25.212998762726784">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745464565232396" lon="-25.212922990322113">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745379824191332" lon="-25.21283489651978">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745309751480818" lon="-25.212739007547498">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74522140622139" lon="-25.212609758600593">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745135994628072" lon="-25.212484197691083">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745035160332918" lon="-25.212317733094096">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744977409020066" lon="-25.212247744202614">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744890153408051" lon="-25.212193597108126">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744832905009389" lon="-25.212149927392602">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74480021558702" lon="-25.212154453620315">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74468638934195" lon="-25.212119668722153">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744611706584692" lon="-25.212106425315142">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744547501206398" lon="-25.21210047416389">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744489163160324" lon="-25.212086895480752">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744432082399726" lon="-25.212054457515478">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744344156235456" lon="-25.211958987638354">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744282716885209" lon="-25.211937949061394">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744159754365683" lon="-25.211927806958556">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744033606722951" lon="-25.211917497217655">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744012232869864" lon="-25.211807359009981">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743974849581718" lon="-25.211615664884448">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743968646973372" lon="-25.211586328223348">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743965210393071" lon="-25.211504101753235">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743958672508597" lon="-25.211348449811339">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743956660851836" lon="-25.211300672963262">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743964623659849" lon="-25.211060363799334">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743966551497579" lon="-25.210982244461775">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743966551497579" lon="-25.210962211713195">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743970910087228" lon="-25.210925918072462">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743982644751668" lon="-25.210858946666121">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743986835703254" lon="-25.210684351623058">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743973257020116" lon="-25.210384111851454">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743950039148331" lon="-25.210233991965652">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743892958387733" lon="-25.209971973672509">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743872506543994" lon="-25.209849597886205">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743851132690907" lon="-25.209763934835792">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743773516267538" lon="-25.209470484405756">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74376236833632" lon="-25.209292536601424">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743724817410111" lon="-25.209043258801103">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743672681972384" lon="-25.208759447559714">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743651056662202" lon="-25.208464236930013">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743642088025808" lon="-25.208342112600803">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743640411645174" lon="-25.208303220570087">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743635633960366" lon="-25.208265418186784">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743612248450518" lon="-25.208191992715001">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743596322834492" lon="-25.208155196160078">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743449890986085" lon="-25.207976493984461">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743252329528332" lon="-25.207874905318022">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74304261431098" lon="-25.207766611129045">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742939181625843" lon="-25.207717996090651">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742822086438537" lon="-25.207663010805845">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742799371480942" lon="-25.207654545083642">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742753606289625" lon="-25.207655718550086">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742722006514668" lon="-25.207643983885646">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742670625448227" lon="-25.207657814025879">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742628715932369" lon="-25.207658903673291">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742385556921363" lon="-25.207709111273289">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742335516959429" lon="-25.207711039111018">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742254547774792" lon="-25.20771162584424">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742208698764443" lon="-25.207700477913022">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74210887029767" lon="-25.207669632509351">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742035025730729" lon="-25.207639960572124">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74199009872973" lon="-25.207633003592491">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741980459541082" lon="-25.207630069926381">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741752052679658" lon="-25.207553207874298">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741654152050614" lon="-25.207547340542078">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741630598902702" lon="-25.207547591999173">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741624480113387" lon="-25.207544825971127">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741465056315064" lon="-25.207471819594502">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741251736879349" lon="-25.207336870953441">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741036657243967" lon="-25.207206699997187">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741015534847975" lon="-25.20718926563859">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741004806011915" lon="-25.207168562337756">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740971026942134" lon="-25.20715557038784">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740905396640301" lon="-25.207130424678326">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740880753844976" lon="-25.207120953127742">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740662656724453" lon="-25.20699237473309">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740640947595239" lon="-25.206984831020236">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740586716681719" lon="-25.206963457167149">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740565845742822" lon="-25.206948202103376">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740545896813273" lon="-25.206930181011558">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740527372807264" lon="-25.206908639520407">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740434836596251" lon="-25.206748293712735">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740429053083062" lon="-25.206715855747461">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740427376702428" lon="-25.206682328134775">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740422012284398" lon="-25.206377394497395">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740418156608939" lon="-25.20617438480258">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740403153002262" lon="-25.206073131412268">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740392759442329" lon="-25.206039939075708">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740378845483065" lon="-25.206006998196244">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740262588486075" lon="-25.205740537494421">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740134093910456" lon="-25.205505760386586">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740031834691763" lon="-25.205374667420983">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740023117512465" lon="-25.205363519489765">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740032086148858" lon="-25.205356813967228">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740054382011294" lon="-25.205336110666394">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740134261548519" lon="-25.205194037407637">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740143397822976" lon="-25.205172915011644">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740109534934163" lon="-25.205183308571577">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739981124177575" lon="-25.205227732658386">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739960085600615" lon="-25.205235024914145">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739894958212972" lon="-25.205240305513144">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739875176921487" lon="-25.205238964408636">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739817760884762" lon="-25.205233013257384">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739764535799623" lon="-25.205204514786601">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739724135026336" lon="-25.205173501744866">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739638471975923" lon="-25.205069817602634">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.73945021443069" lon="-25.204706462100148">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739449879154563" lon="-25.204705875366926">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739342423155904" lon="-25.204504122957587">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739293221384287" lon="-25.20436841994524">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739282576367259" lon="-25.20433908328414">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739277798682451" lon="-25.204318966716528">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739264974370599" lon="-25.2042789850384">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739262292161584" lon="-25.204254677519202">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739258604124188" lon="-25.204239338636398">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739247288554907" lon="-25.204147892072797">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739237146452069" lon="-25.204058289527893">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739233793690801" lon="-25.204028952866793">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739233961328864" lon="-25.203912612050772">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739234128966928" lon="-25.203811023384333">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739226082339883" lon="-25.203706501051784">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739223819226027" lon="-25.203684205189347">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739218957722187" lon="-25.203637098893523">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739213174208999" lon="-25.203626956790686">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739192638546228" lon="-25.203568786382675">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739170594140887" lon="-25.203516148030758">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739148214459419" lon="-25.203477926552296">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739105969667435" lon="-25.203425623476505">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739076800644398" lon="-25.203407350927591">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739034974947572" lon="-25.203381199389696">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738953502848744" lon="-25.203358484432101">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738863565027714" lon="-25.203333087265491">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.73871336132288" lon="-25.203318083658814">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738613868132234" lon="-25.203291848301888">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738536586984992" lon="-25.203247927129269">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738479003310204" lon="-25.20320400595665">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738478919491172" lon="-25.203203922137618">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738434076309204" lon="-25.20315027795732">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738420832902193" lon="-25.203088000416756">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738420916721225" lon="-25.203034104779363">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738434579223394" lon="-25.202980041503906">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738457629457116" lon="-25.202933689579368">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.73846073076129" lon="-25.20292991772294">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738441033288836" lon="-25.202875016257167">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738411026075482" lon="-25.202864035964012">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738399961963296" lon="-25.202851966023445">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738354029133916" lon="-25.202848026528955">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738312035799026" lon="-25.202764961868525">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738231988623738" lon="-25.202730009332299">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738143978640437" lon="-25.202723974362016">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.73812897503376" lon="-25.202616015449166">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738140039145947" lon="-25.202574022114277">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738140039145947" lon="-25.202548960223794">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738091005012393" lon="-25.202484000474215">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738052029162645" lon="-25.202374029904604">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738049011677504" lon="-25.202274033799767">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738052029162645" lon="-25.202252995222807">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738025961443782" lon="-25.202230028808117">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738007018342614" lon="-25.202232040464878">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.737945998087525" lon="-25.202207984402776">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.737949015572667" lon="-25.202202033251524">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.737892018631101" lon="-25.202104970812798">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.737857988104224" lon="-25.20208703354001">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.737736031413078" lon="-25.202117962762713">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.737670987844467" lon="-25.202160039916635">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.737666964530945" lon="-25.202165991067886">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.737663025036454" lon="-25.202178983017802">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.737609967589378" lon="-25.202161967754364">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.737613990902901" lon="-25.20217303186655">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.737617008388042" lon="-25.202176971361041">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.737606028094888" lon="-25.202222988009453">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.737597981467843" lon="-25.202240003272891">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.737594963982701" lon="-25.202242014929652">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.737591024488211" lon="-25.20217303186655">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.737609967589378" lon="-25.2021290268749">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.737617008388042" lon="-25.202035987749696">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.737651960924268" lon="-25.201941020786762">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.737663025036454" lon="-25.201922999694943">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.73776201531291" lon="-25.201903972774744">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.737881038337946" lon="-25.201857034116983">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738013975322247" lon="-25.201782016083598">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738022021949291" lon="-25.201743962243199">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738028978928924" lon="-25.201727030798793">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738070972263813" lon="-25.201543970033526">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738086981698871" lon="-25.201395023614168">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738086981698871" lon="-25.201351018622518">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738163005560637" lon="-25.201263008639216">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738197036087513" lon="-25.201208023354411">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738204998895526" lon="-25.201164018362761">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738212961703539" lon="-25.201149014756083">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738288985565305" lon="-25.20105698145926">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738486966118217" lon="-25.201058993116021">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738499036058784" lon="-25.201063016429543">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738620992749929" lon="-25.201036026701331">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738635996356606" lon="-25.201041977852583">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738827019929886" lon="-25.200986992567778">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.73887513205409" lon="-25.200907196849585">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738921064883471" lon="-25.200831005349755">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.738978983834386" lon="-25.200735032558441">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739032963290811" lon="-25.200720028951764">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739071017131209" lon="-25.200722040608525">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739222981035709" lon="-25.200698990374804">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739399001002312" lon="-25.200792029500008">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739544007927179" lon="-25.200865035876632">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739563034847379" lon="-25.200885990634561">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739650961011648" lon="-25.200951034203172">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739680968225002" lon="-25.200960002839565">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739795967936516" lon="-25.201105009764433">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.73993301205337" lon="-25.201582023873925">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739948015660048" lon="-25.201595015823841">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.739985985681415" lon="-25.201629968360066">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740100985392928" lon="-25.201720995828509">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740184972062707" lon="-25.201688976958394">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740223025903106" lon="-25.20170004107058">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740226965397596" lon="-25.20170196890831">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740199975669384" lon="-25.201712027192116">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740157982334495" lon="-25.201738011091948">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740115988999605" lon="-25.201774975284934">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740208022296429" lon="-25.201747985556722">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740223025903106" lon="-25.201757038012147">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740280022844672" lon="-25.201760977506638">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740292008966208" lon="-25.201757038012147">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740381276234984" lon="-25.201734323054552">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740443469956517" lon="-25.201708758249879">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740515135228634" lon="-25.201690569519997">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74057799950242" lon="-25.201642960309982">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740691993385553" lon="-25.201590992510319">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74074899032712" lon="-25.201551010832191">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740821996703744" lon="-25.201442968100309">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740871030837297" lon="-25.201318999752402">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740883016958833" lon="-25.201272983103991">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740871030837297" lon="-25.201158989220858">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740887040272355" lon="-25.201046001166105">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740910006687045" lon="-25.200957991182804">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740944037213922" lon="-25.200792029500008">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740947976708412" lon="-25.200764033943415">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.740977983921766" lon="-25.200711982324719">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741013020277023" lon="-25.200623972341418">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741039004176855" lon="-25.200580973178148">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741100024431944" lon="-25.200465973466635">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741142017766833" lon="-25.200375029817224">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741164984181523" lon="-25.200337981805205">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741245031356812" lon="-25.200248965993524">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741261040791869" lon="-25.200230022892356">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741287024691701" lon="-25.200184006243944">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741294987499714" lon="-25.20017403177917">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741360031068325" lon="-25.200095996260643">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741363970562816" lon="-25.200095996260643">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741398001089692" lon="-25.20004696212709">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741402024403214" lon="-25.200017960742116">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741417028009892" lon="-25.199923999607563">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741390038281679" lon="-25.199820986017585">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741386014968157" lon="-25.199812017381191">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741375034675002" lon="-25.199761977419257">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74135198444128" lon="-25.199618982151151">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741341758519411" lon="-25.199590986594558">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741347458213568" lon="-25.199490403756499">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741348464041948" lon="-25.199455702677369">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741389367729425" lon="-25.199330477043986">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741458602249622" lon="-25.199213130399585">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741525154560804" lon="-25.19912495277822">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741563962772489" lon="-25.199090922251344">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741578044369817" lon="-25.199080863967538">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741632359102368" lon="-25.199059909209609">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741664545610547" lon="-25.199060076847672">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741670496761799" lon="-25.199060579761863">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741729253903031" lon="-25.199065776541829">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741775522008538" lon="-25.19907851703465">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741839056834579" lon="-25.199133334681392">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.741912230849266" lon="-25.199225787073374">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742008287459612" lon="-25.199314132332802">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742062518373132" lon="-25.199329219758511">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742070145905018" lon="-25.199293680489063">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742081796750426" lon="-25.199268870055676">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742127981036901" lon="-25.19925344735384">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742150695994496" lon="-25.199252190068364">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742196125909686" lon="-25.199238192290068">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742218757048249" lon="-25.199230145663023">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742309616878629" lon="-25.199187062680721">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742332248017192" lon="-25.199178429320455">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742354460060596" lon="-25.199164180085063">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742361417040229" lon="-25.199136435985565">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742419671267271" lon="-25.199049599468708">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742436435073614" lon="-25.199024705216289">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742443978786469" lon="-25.199013389647007">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742462251335382" lon="-25.198990674689412">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742484882473946" lon="-25.198970306664705">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742507681250572" lon="-25.198955973610282">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742575658485293" lon="-25.198943903669715">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742598373442888" lon="-25.198943903669715">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742621088400483" lon="-25.198946502059698">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742689065635204" lon="-25.198966786265373">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742711696773767" lon="-25.198973072692752">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742734411731362" lon="-25.198979275301099">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742757042869925" lon="-25.198982292786241">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74277975782752" lon="-25.198980951681733">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742820661514997" lon="-25.198954213410616">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742843376472592" lon="-25.198937198147178">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742865923792124" lon="-25.198924792930484">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742911856621504" lon="-25.198912555351853">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.742957202717662" lon="-25.198909873142838">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743002632632852" lon="-25.198909370228648">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743140514940023" lon="-25.198911465704441">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743163229897618" lon="-25.198911465704441">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743208408355713" lon="-25.198911633342505">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743255430832505" lon="-25.198915069922805">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743278061971068" lon="-25.198919847607613">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743293568491936" lon="-25.198926720768213">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743342518806458" lon="-25.198959661647677">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74334603920579" lon="-25.198962176218629">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743368754163384" lon="-25.198979107663035">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743391385301948" lon="-25.198993608355522">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743576457723975" lon="-25.199192594736814">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743594478815794" lon="-25.199214303866029">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743617193773389" lon="-25.199230397120118">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743636472150683" lon="-25.199216734617949">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743636220693588" lon="-25.199214722961187">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74363286793232" lon="-25.199186140671372">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743567656725645" lon="-25.199083546176553">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743507642298937" lon="-25.19898908212781">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743493476882577" lon="-25.198964439332485">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743485514074564" lon="-25.198933761566877">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743490878492594" lon="-25.198903167620301">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743507726117969" lon="-25.198884895071387">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743530441075563" lon="-25.198866873979568">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743553072214127" lon="-25.198863102123141">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743575368076563" lon="-25.198864359408617">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743595903739333" lon="-25.198875926434994">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743632113561034" lon="-25.198914399370551">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743650218471885" lon="-25.198937281966209">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743668323382735" lon="-25.198956225067377">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74369103834033" lon="-25.198960080742836">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743745604529977" lon="-25.19889771938324">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743763709440827" lon="-25.198875004425645">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74378189817071" lon="-25.198856396600604">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743792375549674" lon="-25.19885522313416">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743940651416779" lon="-25.198838375508785">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743963282555342" lon="-25.198838291689754">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.743985997512937" lon="-25.198843320831656">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744067637249827" lon="-25.198910376057029">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744176266714931" lon="-25.199036607518792">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744192527607083" lon="-25.199061585590243">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744201412424445" lon="-25.199094275012612">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74420166388154" lon="-25.199102237820625">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744202418252826" lon="-25.199127634987235">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744202418252826" lon="-25.199129143729806">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744203926995397" lon="-25.199164180085063">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744210800155997" lon="-25.199191924184561">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74422169663012" lon="-25.199217908084393">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744239550083876" lon="-25.19923877902329">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744262181222439" lon="-25.199258392676711">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744284812361002" lon="-25.199273144826293">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744329990819097" lon="-25.19927884452045">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744353879243135" lon="-25.199279179796576">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744403835386038" lon="-25.199306337162852">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744426550343633" lon="-25.199318742379546">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744449181482196" lon="-25.199326034635305">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744653280824423" lon="-25.199326621368527">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744675995782018" lon="-25.199326537549496">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744721341878176" lon="-25.199310863390565">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744744056835771" lon="-25.199298961088061">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744784876704216" lon="-25.199261158704758">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74490281008184" lon="-25.19907658919692">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744925105944276" lon="-25.199061501771212">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744942791759968" lon="-25.199039373546839">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744956705719233" lon="-25.199014060199261">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.744979420676827" lon="-25.198970474302769">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745022587478161" lon="-25.198923787102103">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.74520824663341" lon="-25.198814570903778">
+        <ele>0</ele>
+      </trkpt>
+      <trkpt lat="37.745209001004696" lon="-25.198816414922476">
+        <ele>0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>
